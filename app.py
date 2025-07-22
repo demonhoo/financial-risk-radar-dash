@@ -8,33 +8,40 @@ df = pd.read_csv("financial_risk_data.csv")
 regions = df["Region"].unique()
 quarters = sorted(df["Time"].unique(), key=lambda x: (int(x.split("_")[0]), int(x.split("_")[1][1])))
 
+# Color map remains outside callback to avoid reset
+color_map = {"Global": "#1f77b4", "USA": "#d62728", "China": "#2ca02c", "Eurozone": "#9467bd"}
+
 # App setup
 app = dash.Dash(__name__)
 server = app.server
 
 app.layout = html.Div([
     html.H1("📊 Financial Risk Radar", style={'textAlign': 'center', 'fontSize': '32px'}),
-    html.Div([
-        html.Label("Select Region:"),
-        dcc.Dropdown(
-            id="region-dropdown",
-            options=[{"label": r, "value": r} for r in regions],
-            value="Global",
-            clearable=False
-        )
-    ], style={'width': '30%', 'display': 'inline-block', 'padding': '10px'}),
 
     html.Div([
-        html.Label("Select Quarter:"),
-        dcc.Slider(
-            id="quarter-slider",
-            min=0,
-            max=len(quarters) - 1,
-            value=len(quarters) // 2,
-            marks={i: q for i, q in enumerate(quarters) if i % 4 == 0},
-            step=None
-        )
-    ], style={'padding': '20px'}),
+        html.Div([
+            html.Label("Select Region:"),
+            dcc.Dropdown(
+                id="region-dropdown",
+                options=[{"label": r, "value": r} for r in regions],
+                value="Global",
+                clearable=False
+            )
+        ], style={'width': '30%', 'display': 'inline-block', 'padding': '10px'}),
+
+        html.Div([
+            html.Label("Select Quarter:"),
+            dcc.Slider(
+                id="quarter-slider",
+                min=0,
+                max=len(quarters) - 1,
+                value=len(quarters) // 2,
+                marks={i: q for i, q in enumerate(quarters) if i % 4 == 0},
+                step=None,
+                tooltip={"placement": "bottom", "always_visible": True}
+            )
+        ], style={'width': '65%', 'display': 'inline-block', 'padding': '10px 20px 30px 20px'})
+    ], style={'display': 'flex', 'justifyContent': 'space-between'}),
 
     dcc.Graph(id="radar-chart")
 ])
@@ -48,12 +55,12 @@ def update_chart(region, quarter_index):
     time = quarters[quarter_index]
     dff = df[(df["Region"] == region) & (df["Time"] == time)]
 
+    forecast = dff["Forecast"].iloc[0] if "Forecast" in dff else False
     theta = [f"{r} {t}" for r, t in zip(dff["Risk Dimension"], dff["Trend"])]
     r = dff["Score"].tolist()
     theta.append(theta[0])
     r.append(r[0])
-    color_map = {"Global": "#1f77b4", "USA": "#d62728", "China": "#2ca02c", "Eurozone": "#9467bd"}
-    color = color_map.get(region, "blue")
+    color = color_map.get(region, "#1f77b4")
     pressure_index = dff["Pressure Index"].iloc[0]
 
     fig = go.Figure()
@@ -63,7 +70,8 @@ def update_chart(region, quarter_index):
         theta=theta,
         fill='toself',
         name=region,
-        line=dict(color=color)
+        line=dict(color=color, dash="dot" if forecast else "solid"),
+        opacity=0.5 if forecast else 1.0
     ))
 
     fig.add_trace(go.Indicator(
@@ -88,7 +96,7 @@ def update_chart(region, quarter_index):
         ),
         showlegend=False,
         height=600,
-        margin=dict(t=60, b=60)
+        margin=dict(t=60, b=80)
     )
 
     return fig

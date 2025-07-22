@@ -1,897 +1,1153 @@
-Region,Time,Risk Dimension,Score,Trend,Forecast,Pressure Index
-China,2022_Q1,Bank Stability,3.3,→,False,61
-China,2022_Q2,Bank Stability,2.99,↓,False,52
-China,2022_Q3,Bank Stability,3.41,↑,False,53
-China,2022_Q4,Bank Stability,3.82,↑,False,81
-China,2023_Q1,Bank Stability,4.95,↑,False,66
-China,2023_Q2,Bank Stability,2.97,↓,False,42
-China,2023_Q3,Bank Stability,3.11,→,False,61
-China,2023_Q4,Bank Stability,2.18,↓,False,64
-China,2024_Q1,Bank Stability,3.79,↑,False,71
-China,2024_Q2,Bank Stability,4.51,↑,False,62
-China,2024_Q3,Bank Stability,1.25,↓,False,44
-China,2024_Q4,Bank Stability,2.51,↑,False,50
-China,2025_Q1,Bank Stability,2.23,→,False,68
-China,2025_Q2,Bank Stability,3.47,↑,False,71
-China,2025_Q3,Bank Stability,1.59,↓,False,70
-China,2025_Q4,Bank Stability,3.34,↑,False,59
-China,2026_Q1,Bank Stability,2.39,↓,True,58
-China,2026_Q2,Bank Stability,3.05,↑,True,51
-China,2026_Q3,Bank Stability,3.88,↑,True,58
-China,2026_Q4,Bank Stability,2.51,↓,True,38
-China,2027_Q1,Bank Stability,3.35,↑,True,51
-China,2027_Q2,Bank Stability,1.61,↓,True,35
-China,2027_Q3,Bank Stability,4.67,↑,True,74
-China,2027_Q4,Bank Stability,1.8,↓,True,67
-China,2028_Q1,Bank Stability,1.25,↓,True,55
-China,2028_Q2,Bank Stability,3.98,↑,True,66
-China,2028_Q3,Bank Stability,1.94,↓,True,63
-China,2028_Q4,Bank Stability,4.6,↑,True,62
-China,2022_Q1,China Slowdown,4.47,→,False,61
-China,2022_Q2,China Slowdown,4.83,↑,False,52
-China,2022_Q3,China Slowdown,1.45,↓,False,53
-China,2022_Q4,China Slowdown,4.35,↑,False,81
-China,2023_Q1,China Slowdown,4.94,↑,False,66
-China,2023_Q2,China Slowdown,1.47,↓,False,42
-China,2023_Q3,China Slowdown,2.29,↑,False,61
-China,2023_Q4,China Slowdown,4.66,↑,False,64
-China,2024_Q1,China Slowdown,1.65,↓,False,71
-China,2024_Q2,China Slowdown,2.92,↑,False,62
-China,2024_Q3,China Slowdown,3.77,↑,False,44
-China,2024_Q4,China Slowdown,1.83,↓,False,50
-China,2025_Q1,China Slowdown,3.36,↑,False,68
-China,2025_Q2,China Slowdown,1.36,↓,False,71
-China,2025_Q3,China Slowdown,4.92,↑,False,70
-China,2025_Q4,China Slowdown,2.65,↓,False,59
-China,2026_Q1,China Slowdown,4.58,↑,True,58
-China,2026_Q2,China Slowdown,1.34,↓,True,51
-China,2026_Q3,China Slowdown,4.38,↑,True,58
-China,2026_Q4,China Slowdown,1.48,↓,True,38
-China,2027_Q1,China Slowdown,2.45,↑,True,51
-China,2027_Q2,China Slowdown,1.69,↓,True,35
-China,2027_Q3,China Slowdown,4.28,↑,True,74
-China,2027_Q4,China Slowdown,1.35,↓,True,67
-China,2028_Q1,China Slowdown,3.73,↑,True,55
-China,2028_Q2,China Slowdown,2.52,↓,True,66
-China,2028_Q3,China Slowdown,3.73,↑,True,63
-China,2028_Q4,China Slowdown,1.47,↓,True,62
-China,2022_Q1,Emerging Market Debt,1.51,→,False,61
-China,2022_Q2,Emerging Market Debt,2.19,↑,False,52
-China,2022_Q3,Emerging Market Debt,1.85,↓,False,53
-China,2022_Q4,Emerging Market Debt,3.75,↑,False,81
-China,2023_Q1,Emerging Market Debt,2.48,↓,False,66
-China,2023_Q2,Emerging Market Debt,2.87,↑,False,42
-China,2023_Q3,Emerging Market Debt,4.21,↑,False,61
-China,2023_Q4,Emerging Market Debt,3.79,↓,False,64
-China,2024_Q1,Emerging Market Debt,2.24,↓,False,71
-China,2024_Q2,Emerging Market Debt,1.66,↓,False,62
-China,2024_Q3,Emerging Market Debt,1.54,→,False,44
-China,2024_Q4,Emerging Market Debt,1.82,→,False,50
-China,2025_Q1,Emerging Market Debt,4.87,↑,False,68
-China,2025_Q2,Emerging Market Debt,3.43,↓,False,71
-China,2025_Q3,Emerging Market Debt,2.97,↓,False,70
-China,2025_Q4,Emerging Market Debt,3.79,↑,False,59
-China,2026_Q1,Emerging Market Debt,3.19,↓,True,58
-China,2026_Q2,Emerging Market Debt,2.51,↓,True,51
-China,2026_Q3,Emerging Market Debt,1.59,↓,True,58
-China,2026_Q4,Emerging Market Debt,2.29,↑,True,38
-China,2027_Q1,Emerging Market Debt,2.73,↑,True,51
-China,2027_Q2,Emerging Market Debt,1.64,↓,True,35
-China,2027_Q3,Emerging Market Debt,4.9,↑,True,74
-China,2027_Q4,Emerging Market Debt,3.12,↓,True,67
-China,2028_Q1,Emerging Market Debt,2.29,↓,True,55
-China,2028_Q2,Emerging Market Debt,4.73,↑,True,66
-China,2028_Q3,Emerging Market Debt,4.63,→,True,63
-China,2028_Q4,Emerging Market Debt,3.17,↓,True,62
-China,2022_Q1,Geopolitical Conflict,3.93,→,False,61
-China,2022_Q2,Geopolitical Conflict,2.56,↓,False,52
-China,2022_Q3,Geopolitical Conflict,3.21,↑,False,53
-China,2022_Q4,Geopolitical Conflict,4.87,↑,False,81
-China,2023_Q1,Geopolitical Conflict,2.5,↓,False,66
-China,2023_Q2,Geopolitical Conflict,1.05,↓,False,42
-China,2023_Q3,Geopolitical Conflict,2.75,↑,False,61
-China,2023_Q4,Geopolitical Conflict,4.98,↑,False,64
-China,2024_Q1,Geopolitical Conflict,3.14,↓,False,71
-China,2024_Q2,Geopolitical Conflict,3.21,→,False,62
-China,2024_Q3,Geopolitical Conflict,1.15,↓,False,44
-China,2024_Q4,Geopolitical Conflict,1.96,↑,False,50
-China,2025_Q1,Geopolitical Conflict,4.27,↑,False,68
-China,2025_Q2,Geopolitical Conflict,4.92,↑,False,71
-China,2025_Q3,Geopolitical Conflict,4.71,→,False,70
-China,2025_Q4,Geopolitical Conflict,2.6,↓,False,59
-China,2026_Q1,Geopolitical Conflict,1.13,↓,True,58
-China,2026_Q2,Geopolitical Conflict,1.63,↑,True,51
-China,2026_Q3,Geopolitical Conflict,1.25,↓,True,58
-China,2026_Q4,Geopolitical Conflict,1.08,→,True,38
-China,2027_Q1,Geopolitical Conflict,3.98,↑,True,51
-China,2027_Q2,Geopolitical Conflict,1.98,↓,True,35
-China,2027_Q3,Geopolitical Conflict,1.02,↓,True,74
-China,2027_Q4,Geopolitical Conflict,3.94,↑,True,67
-China,2028_Q1,Geopolitical Conflict,4.96,↑,True,55
-China,2028_Q2,Geopolitical Conflict,2.63,↓,True,66
-China,2028_Q3,Geopolitical Conflict,3.54,↑,True,63
-China,2028_Q4,Geopolitical Conflict,2.54,↓,True,62
-China,2022_Q1,Housing Bubble,3.27,→,False,61
-China,2022_Q2,Housing Bubble,3.14,→,False,52
-China,2022_Q3,Housing Bubble,1.37,↓,False,53
-China,2022_Q4,Housing Bubble,3.18,↑,False,81
-China,2023_Q1,Housing Bubble,1.34,↓,False,66
-China,2023_Q2,Housing Bubble,1.44,→,False,42
-China,2023_Q3,Housing Bubble,1.33,→,False,61
-China,2023_Q4,Housing Bubble,1.87,↑,False,64
-China,2024_Q1,Housing Bubble,4.94,↑,False,71
-China,2024_Q2,Housing Bubble,1.33,↓,False,62
-China,2024_Q3,Housing Bubble,3.28,↑,False,44
-China,2024_Q4,Housing Bubble,4.03,↑,False,50
-China,2025_Q1,Housing Bubble,4.33,→,False,68
-China,2025_Q2,Housing Bubble,4.61,→,False,71
-China,2025_Q3,Housing Bubble,4.8,→,False,70
-China,2025_Q4,Housing Bubble,2.84,↓,False,59
-China,2026_Q1,Housing Bubble,2.38,↓,True,58
-China,2026_Q2,Housing Bubble,3.75,↑,True,51
-China,2026_Q3,Housing Bubble,3.13,↓,True,58
-China,2026_Q4,Housing Bubble,2.08,↓,True,38
-China,2027_Q1,Housing Bubble,3.15,↑,True,51
-China,2027_Q2,Housing Bubble,1.41,↓,True,35
-China,2027_Q3,Housing Bubble,3.3,↑,True,74
-China,2027_Q4,Housing Bubble,3.84,↑,True,67
-China,2028_Q1,Housing Bubble,1.54,↓,True,55
-China,2028_Q2,Housing Bubble,4.4,↑,True,66
-China,2028_Q3,Housing Bubble,1.75,↓,True,63
-China,2028_Q4,Housing Bubble,1.93,→,True,62
-China,2022_Q1,Inflation/Rate Shock,2.0,→,False,61
-China,2022_Q2,Inflation/Rate Shock,1.4,↓,False,52
-China,2022_Q3,Inflation/Rate Shock,4.78,↑,False,53
-China,2022_Q4,Inflation/Rate Shock,4.35,↓,False,81
-China,2023_Q1,Inflation/Rate Shock,4.25,→,False,66
-China,2023_Q2,Inflation/Rate Shock,1.23,↓,False,42
-China,2023_Q3,Inflation/Rate Shock,4.91,↑,False,61
-China,2023_Q4,Inflation/Rate Shock,2.54,↓,False,64
-China,2024_Q1,Inflation/Rate Shock,4.26,↑,False,71
-China,2024_Q2,Inflation/Rate Shock,2.65,↓,False,62
-China,2024_Q3,Inflation/Rate Shock,1.05,↓,False,44
-China,2024_Q4,Inflation/Rate Shock,2.01,↑,False,50
-China,2025_Q1,Inflation/Rate Shock,1.35,↓,False,68
-China,2025_Q2,Inflation/Rate Shock,3.55,↑,False,71
-China,2025_Q3,Inflation/Rate Shock,2.03,↓,False,70
-China,2025_Q4,Inflation/Rate Shock,1.72,↓,False,59
-China,2026_Q1,Inflation/Rate Shock,3.14,↑,True,58
-China,2026_Q2,Inflation/Rate Shock,1.01,↓,True,51
-China,2026_Q3,Inflation/Rate Shock,1.53,↑,True,58
-China,2026_Q4,Inflation/Rate Shock,1.85,↑,True,38
-China,2027_Q1,Inflation/Rate Shock,1.51,↓,True,51
-China,2027_Q2,Inflation/Rate Shock,1.75,→,True,35
-China,2027_Q3,Inflation/Rate Shock,2.96,↑,True,74
-China,2027_Q4,Inflation/Rate Shock,3.83,↑,True,67
-China,2028_Q1,Inflation/Rate Shock,4.24,↑,True,55
-China,2028_Q2,Inflation/Rate Shock,4.96,↑,True,66
-China,2028_Q3,Inflation/Rate Shock,2.26,↓,True,63
-China,2028_Q4,Inflation/Rate Shock,4.63,↑,True,62
-China,2022_Q1,Market Liquidity,3.32,→,False,61
-China,2022_Q2,Market Liquidity,1.21,↓,False,52
-China,2022_Q3,Market Liquidity,4.13,↑,False,53
-China,2022_Q4,Market Liquidity,4.47,↑,False,81
-China,2023_Q1,Market Liquidity,4.79,↑,False,66
-China,2023_Q2,Market Liquidity,1.48,↓,False,42
-China,2023_Q3,Market Liquidity,3.22,↑,False,61
-China,2023_Q4,Market Liquidity,3.95,↑,False,64
-China,2024_Q1,Market Liquidity,3.74,→,False,71
-China,2024_Q2,Market Liquidity,4.11,↑,False,62
-China,2024_Q3,Market Liquidity,1.3,↓,False,44
-China,2024_Q4,Market Liquidity,2.1,↑,False,50
-China,2025_Q1,Market Liquidity,4.17,↑,False,68
-China,2025_Q2,Market Liquidity,3.22,↓,False,71
-China,2025_Q3,Market Liquidity,2.84,↓,False,70
-China,2025_Q4,Market Liquidity,3.79,↑,False,59
-China,2026_Q1,Market Liquidity,2.42,↓,True,58
-China,2026_Q2,Market Liquidity,4.47,↑,True,51
-China,2026_Q3,Market Liquidity,3.75,↓,True,58
-China,2026_Q4,Market Liquidity,2.31,↓,True,38
-China,2027_Q1,Market Liquidity,2.14,→,True,51
-China,2027_Q2,Market Liquidity,2.14,→,True,35
-China,2027_Q3,Market Liquidity,3.89,↑,True,74
-China,2027_Q4,Market Liquidity,4.07,→,True,67
-China,2028_Q1,Market Liquidity,2.02,↓,True,55
-China,2028_Q2,Market Liquidity,1.82,→,True,66
-China,2028_Q3,Market Liquidity,3.35,↑,True,63
-China,2028_Q4,Market Liquidity,3.5,→,True,62
-China,2022_Q1,Sovereign Debt,2.69,→,False,61
-China,2022_Q2,Sovereign Debt,2.51,→,False,52
-China,2022_Q3,Sovereign Debt,1.33,↓,False,53
-China,2022_Q4,Sovereign Debt,3.95,↑,False,81
-China,2023_Q1,Sovereign Debt,1.33,↓,False,66
-China,2023_Q2,Sovereign Debt,4.63,↑,False,42
-China,2023_Q3,Sovereign Debt,2.91,↓,False,61
-China,2023_Q4,Sovereign Debt,1.66,↓,False,64
-China,2024_Q1,Sovereign Debt,4.9,↑,False,71
-China,2024_Q2,Sovereign Debt,4.68,→,False,62
-China,2024_Q3,Sovereign Debt,4.32,↓,False,44
-China,2024_Q4,Sovereign Debt,3.9,↓,False,50
-China,2025_Q1,Sovereign Debt,2.9,↓,False,68
-China,2025_Q2,Sovereign Debt,4.22,↑,False,71
-China,2025_Q3,Sovereign Debt,4.45,→,False,70
-China,2025_Q4,Sovereign Debt,3.15,↓,False,59
-China,2026_Q1,Sovereign Debt,4.29,↑,True,58
-China,2026_Q2,Sovereign Debt,2.92,↓,True,51
-China,2026_Q3,Sovereign Debt,4.04,↑,True,58
-China,2026_Q4,Sovereign Debt,1.97,↓,True,38
-China,2027_Q1,Sovereign Debt,1.35,↓,True,51
-China,2027_Q2,Sovereign Debt,1.95,↑,True,35
-China,2027_Q3,Sovereign Debt,4.59,↑,True,74
-China,2027_Q4,Sovereign Debt,4.87,→,True,67
-China,2028_Q1,Sovereign Debt,2.35,↓,True,55
-China,2028_Q2,Sovereign Debt,1.43,↓,True,66
-China,2028_Q3,Sovereign Debt,4.3,↑,True,63
-China,2028_Q4,Sovereign Debt,3.01,↓,True,62
-Eurozone,2022_Q1,Bank Stability,3.29,→,False,71
-Eurozone,2022_Q2,Bank Stability,4.39,↑,False,54
-Eurozone,2022_Q3,Bank Stability,4.84,↑,False,62
-Eurozone,2022_Q4,Bank Stability,3.79,↓,False,71
-Eurozone,2023_Q1,Bank Stability,1.66,↓,False,44
-Eurozone,2023_Q2,Bank Stability,2.59,↑,False,56
-Eurozone,2023_Q3,Bank Stability,2.25,↓,False,45
-Eurozone,2023_Q4,Bank Stability,2.59,↑,False,56
-Eurozone,2024_Q1,Bank Stability,2.92,↑,False,53
-Eurozone,2024_Q2,Bank Stability,4.47,↑,False,66
-Eurozone,2024_Q3,Bank Stability,4.95,↑,False,79
-Eurozone,2024_Q4,Bank Stability,1.73,↓,False,54
-Eurozone,2025_Q1,Bank Stability,2.74,↑,False,64
-Eurozone,2025_Q2,Bank Stability,2.61,→,False,61
-Eurozone,2025_Q3,Bank Stability,3.22,↑,False,52
-Eurozone,2025_Q4,Bank Stability,2.68,↓,False,53
-Eurozone,2026_Q1,Bank Stability,2.19,↓,True,67
-Eurozone,2026_Q2,Bank Stability,3.49,↑,True,60
-Eurozone,2026_Q3,Bank Stability,2.44,↓,True,57
-Eurozone,2026_Q4,Bank Stability,2.0,↓,True,64
-Eurozone,2027_Q1,Bank Stability,3.92,↑,True,54
-Eurozone,2027_Q2,Bank Stability,1.48,↓,True,48
-Eurozone,2027_Q3,Bank Stability,1.93,↑,True,60
-Eurozone,2027_Q4,Bank Stability,3.32,↑,True,47
-Eurozone,2028_Q1,Bank Stability,1.17,↓,True,50
-Eurozone,2028_Q2,Bank Stability,2.87,↑,True,72
-Eurozone,2028_Q3,Bank Stability,1.75,↓,True,56
-Eurozone,2028_Q4,Bank Stability,4.59,↑,True,71
-Eurozone,2022_Q1,China Slowdown,1.57,→,False,71
-Eurozone,2022_Q2,China Slowdown,1.92,↑,False,54
-Eurozone,2022_Q3,China Slowdown,3.46,↑,False,62
-Eurozone,2022_Q4,China Slowdown,3.43,→,False,71
-Eurozone,2023_Q1,China Slowdown,1.91,↓,False,44
-Eurozone,2023_Q2,China Slowdown,3.95,↑,False,56
-Eurozone,2023_Q3,China Slowdown,3.06,↓,False,45
-Eurozone,2023_Q4,China Slowdown,3.5,↑,False,56
-Eurozone,2024_Q1,China Slowdown,1.3,↓,False,53
-Eurozone,2024_Q2,China Slowdown,3.02,↑,False,66
-Eurozone,2024_Q3,China Slowdown,1.56,↓,False,79
-Eurozone,2024_Q4,China Slowdown,2.37,↑,False,54
-Eurozone,2025_Q1,China Slowdown,4.47,↑,False,64
-Eurozone,2025_Q2,China Slowdown,4.6,→,False,61
-Eurozone,2025_Q3,China Slowdown,1.55,↓,False,52
-Eurozone,2025_Q4,China Slowdown,3.95,↑,False,53
-Eurozone,2026_Q1,China Slowdown,3.93,→,True,67
-Eurozone,2026_Q2,China Slowdown,3.82,→,True,60
-Eurozone,2026_Q3,China Slowdown,2.78,↓,True,57
-Eurozone,2026_Q4,China Slowdown,1.16,↓,True,64
-Eurozone,2027_Q1,China Slowdown,3.98,↑,True,54
-Eurozone,2027_Q2,China Slowdown,1.26,↓,True,48
-Eurozone,2027_Q3,China Slowdown,3.12,↑,True,60
-Eurozone,2027_Q4,China Slowdown,3.09,→,True,47
-Eurozone,2028_Q1,China Slowdown,3.72,↑,True,50
-Eurozone,2028_Q2,China Slowdown,4.77,↑,True,72
-Eurozone,2028_Q3,China Slowdown,4.54,→,True,56
-Eurozone,2028_Q4,China Slowdown,4.58,→,True,71
-Eurozone,2022_Q1,Emerging Market Debt,4.01,→,False,71
-Eurozone,2022_Q2,Emerging Market Debt,2.59,↓,False,54
-Eurozone,2022_Q3,Emerging Market Debt,1.91,↓,False,62
-Eurozone,2022_Q4,Emerging Market Debt,3.83,↑,False,71
-Eurozone,2023_Q1,Emerging Market Debt,4.35,↑,False,44
-Eurozone,2023_Q2,Emerging Market Debt,4.68,↑,False,56
-Eurozone,2023_Q3,Emerging Market Debt,2.11,↓,False,45
-Eurozone,2023_Q4,Emerging Market Debt,4.2,↑,False,56
-Eurozone,2024_Q1,Emerging Market Debt,4.06,→,False,53
-Eurozone,2024_Q2,Emerging Market Debt,3.21,↓,False,66
-Eurozone,2024_Q3,Emerging Market Debt,4.23,↑,False,79
-Eurozone,2024_Q4,Emerging Market Debt,2.69,↓,False,54
-Eurozone,2025_Q1,Emerging Market Debt,4.79,↑,False,64
-Eurozone,2025_Q2,Emerging Market Debt,3.58,↓,False,61
-Eurozone,2025_Q3,Emerging Market Debt,4.32,↑,False,52
-Eurozone,2025_Q4,Emerging Market Debt,3.08,↓,False,53
-Eurozone,2026_Q1,Emerging Market Debt,2.9,→,True,67
-Eurozone,2026_Q2,Emerging Market Debt,2.38,↓,True,60
-Eurozone,2026_Q3,Emerging Market Debt,4.67,↑,True,57
-Eurozone,2026_Q4,Emerging Market Debt,1.88,↓,True,64
-Eurozone,2027_Q1,Emerging Market Debt,1.46,↓,True,54
-Eurozone,2027_Q2,Emerging Market Debt,3.79,↑,True,48
-Eurozone,2027_Q3,Emerging Market Debt,4.48,↑,True,60
-Eurozone,2027_Q4,Emerging Market Debt,2.59,↓,True,47
-Eurozone,2028_Q1,Emerging Market Debt,4.95,↑,True,50
-Eurozone,2028_Q2,Emerging Market Debt,1.67,↓,True,72
-Eurozone,2028_Q3,Emerging Market Debt,2.4,↑,True,56
-Eurozone,2028_Q4,Emerging Market Debt,3.49,↑,True,71
-Eurozone,2022_Q1,Geopolitical Conflict,4.99,→,False,71
-Eurozone,2022_Q2,Geopolitical Conflict,1.51,↓,False,54
-Eurozone,2022_Q3,Geopolitical Conflict,2.37,↑,False,62
-Eurozone,2022_Q4,Geopolitical Conflict,4.69,↑,False,71
-Eurozone,2023_Q1,Geopolitical Conflict,1.75,↓,False,44
-Eurozone,2023_Q2,Geopolitical Conflict,3.15,↑,False,56
-Eurozone,2023_Q3,Geopolitical Conflict,4.12,↑,False,45
-Eurozone,2023_Q4,Geopolitical Conflict,2.71,↓,False,56
-Eurozone,2024_Q1,Geopolitical Conflict,2.99,→,False,53
-Eurozone,2024_Q2,Geopolitical Conflict,2.63,↓,False,66
-Eurozone,2024_Q3,Geopolitical Conflict,3.41,↑,False,79
-Eurozone,2024_Q4,Geopolitical Conflict,3.33,→,False,54
-Eurozone,2025_Q1,Geopolitical Conflict,2.18,↓,False,64
-Eurozone,2025_Q2,Geopolitical Conflict,1.87,↓,False,61
-Eurozone,2025_Q3,Geopolitical Conflict,3.61,↑,False,52
-Eurozone,2025_Q4,Geopolitical Conflict,2.53,↓,False,53
-Eurozone,2026_Q1,Geopolitical Conflict,3.27,↑,True,67
-Eurozone,2026_Q2,Geopolitical Conflict,2.9,↓,True,60
-Eurozone,2026_Q3,Geopolitical Conflict,1.37,↓,True,57
-Eurozone,2026_Q4,Geopolitical Conflict,2.96,↑,True,64
-Eurozone,2027_Q1,Geopolitical Conflict,1.77,↓,True,54
-Eurozone,2027_Q2,Geopolitical Conflict,1.31,↓,True,48
-Eurozone,2027_Q3,Geopolitical Conflict,1.1,→,True,60
-Eurozone,2027_Q4,Geopolitical Conflict,2.09,↑,True,47
-Eurozone,2028_Q1,Geopolitical Conflict,1.07,↓,True,50
-Eurozone,2028_Q2,Geopolitical Conflict,3.45,↑,True,72
-Eurozone,2028_Q3,Geopolitical Conflict,4.12,↑,True,56
-Eurozone,2028_Q4,Geopolitical Conflict,2.85,↓,True,71
-Eurozone,2022_Q1,Housing Bubble,3.97,→,False,71
-Eurozone,2022_Q2,Housing Bubble,1.44,↓,False,54
-Eurozone,2022_Q3,Housing Bubble,4.31,↑,False,62
-Eurozone,2022_Q4,Housing Bubble,3.26,↓,False,71
-Eurozone,2023_Q1,Housing Bubble,1.94,↓,False,44
-Eurozone,2023_Q2,Housing Bubble,2.33,↑,False,56
-Eurozone,2023_Q3,Housing Bubble,1.14,↓,False,45
-Eurozone,2023_Q4,Housing Bubble,2.24,↑,False,56
-Eurozone,2024_Q1,Housing Bubble,3.14,↑,False,53
-Eurozone,2024_Q2,Housing Bubble,4.36,↑,False,66
-Eurozone,2024_Q3,Housing Bubble,4.22,→,False,79
-Eurozone,2024_Q4,Housing Bubble,1.11,↓,False,54
-Eurozone,2025_Q1,Housing Bubble,3.21,↑,False,64
-Eurozone,2025_Q2,Housing Bubble,3.8,↑,False,61
-Eurozone,2025_Q3,Housing Bubble,2.1,↓,False,52
-Eurozone,2025_Q4,Housing Bubble,4.66,↑,False,53
-Eurozone,2026_Q1,Housing Bubble,3.88,↓,True,67
-Eurozone,2026_Q2,Housing Bubble,1.62,↓,True,60
-Eurozone,2026_Q3,Housing Bubble,3.36,↑,True,57
-Eurozone,2026_Q4,Housing Bubble,4.4,↑,True,64
-Eurozone,2027_Q1,Housing Bubble,1.48,↓,True,54
-Eurozone,2027_Q2,Housing Bubble,1.92,↑,True,48
-Eurozone,2027_Q3,Housing Bubble,3.46,↑,True,60
-Eurozone,2027_Q4,Housing Bubble,2.92,↓,True,47
-Eurozone,2028_Q1,Housing Bubble,1.93,↓,True,50
-Eurozone,2028_Q2,Housing Bubble,4.78,↑,True,72
-Eurozone,2028_Q3,Housing Bubble,1.88,↓,True,56
-Eurozone,2028_Q4,Housing Bubble,4.99,↑,True,71
-Eurozone,2022_Q1,Inflation/Rate Shock,3.83,→,False,71
-Eurozone,2022_Q2,Inflation/Rate Shock,4.19,↑,False,54
-Eurozone,2022_Q3,Inflation/Rate Shock,2.69,↓,False,62
-Eurozone,2022_Q4,Inflation/Rate Shock,1.61,↓,False,71
-Eurozone,2023_Q1,Inflation/Rate Shock,2.33,↑,False,44
-Eurozone,2023_Q2,Inflation/Rate Shock,2.39,→,False,56
-Eurozone,2023_Q3,Inflation/Rate Shock,1.88,↓,False,45
-Eurozone,2023_Q4,Inflation/Rate Shock,2.4,↑,False,56
-Eurozone,2024_Q1,Inflation/Rate Shock,1.41,↓,False,53
-Eurozone,2024_Q2,Inflation/Rate Shock,2.02,↑,False,66
-Eurozone,2024_Q3,Inflation/Rate Shock,4.85,↑,False,79
-Eurozone,2024_Q4,Inflation/Rate Shock,4.57,→,False,54
-Eurozone,2025_Q1,Inflation/Rate Shock,4.05,↓,False,64
-Eurozone,2025_Q2,Inflation/Rate Shock,2.69,↓,False,61
-Eurozone,2025_Q3,Inflation/Rate Shock,1.83,↓,False,52
-Eurozone,2025_Q4,Inflation/Rate Shock,1.19,↓,False,53
-Eurozone,2026_Q1,Inflation/Rate Shock,3.65,↑,True,67
-Eurozone,2026_Q2,Inflation/Rate Shock,2.41,↓,True,60
-Eurozone,2026_Q3,Inflation/Rate Shock,1.55,↓,True,57
-Eurozone,2026_Q4,Inflation/Rate Shock,4.95,↑,True,64
-Eurozone,2027_Q1,Inflation/Rate Shock,2.69,↓,True,54
-Eurozone,2027_Q2,Inflation/Rate Shock,2.36,↓,True,48
-Eurozone,2027_Q3,Inflation/Rate Shock,1.09,↓,True,60
-Eurozone,2027_Q4,Inflation/Rate Shock,1.37,→,True,47
-Eurozone,2028_Q1,Inflation/Rate Shock,2.71,↑,True,50
-Eurozone,2028_Q2,Inflation/Rate Shock,4.96,↑,True,72
-Eurozone,2028_Q3,Inflation/Rate Shock,1.23,↓,True,56
-Eurozone,2028_Q4,Inflation/Rate Shock,3.99,↑,True,71
-Eurozone,2022_Q1,Market Liquidity,4.11,→,False,71
-Eurozone,2022_Q2,Market Liquidity,1.6,↓,False,54
-Eurozone,2022_Q3,Market Liquidity,2.15,↑,False,62
-Eurozone,2022_Q4,Market Liquidity,3.31,↑,False,71
-Eurozone,2023_Q1,Market Liquidity,2.25,↓,False,44
-Eurozone,2023_Q2,Market Liquidity,2.39,→,False,56
-Eurozone,2023_Q3,Market Liquidity,1.85,↓,False,45
-Eurozone,2023_Q4,Market Liquidity,2.87,↑,False,56
-Eurozone,2024_Q1,Market Liquidity,2.34,↓,False,53
-Eurozone,2024_Q2,Market Liquidity,1.78,↓,False,66
-Eurozone,2024_Q3,Market Liquidity,4.78,↑,False,79
-Eurozone,2024_Q4,Market Liquidity,4.27,↓,False,54
-Eurozone,2025_Q1,Market Liquidity,1.56,↓,False,64
-Eurozone,2025_Q2,Market Liquidity,1.53,→,False,61
-Eurozone,2025_Q3,Market Liquidity,1.04,↓,False,52
-Eurozone,2025_Q4,Market Liquidity,1.67,↑,False,53
-Eurozone,2026_Q1,Market Liquidity,4.75,↑,True,67
-Eurozone,2026_Q2,Market Liquidity,2.65,↓,True,60
-Eurozone,2026_Q3,Market Liquidity,4.8,↑,True,57
-Eurozone,2026_Q4,Market Liquidity,4.78,→,True,64
-Eurozone,2027_Q1,Market Liquidity,4.18,↓,True,54
-Eurozone,2027_Q2,Market Liquidity,3.9,→,True,48
-Eurozone,2027_Q3,Market Liquidity,4.5,↑,True,60
-Eurozone,2027_Q4,Market Liquidity,2.35,↓,True,47
-Eurozone,2028_Q1,Market Liquidity,2.54,→,True,50
-Eurozone,2028_Q2,Market Liquidity,1.93,↓,True,72
-Eurozone,2028_Q3,Market Liquidity,4.88,↑,True,56
-Eurozone,2028_Q4,Market Liquidity,1.14,↓,True,71
-Eurozone,2022_Q1,Sovereign Debt,2.98,→,False,71
-Eurozone,2022_Q2,Sovereign Debt,4.29,↑,False,54
-Eurozone,2022_Q3,Sovereign Debt,3.4,↓,False,62
-Eurozone,2022_Q4,Sovereign Debt,4.73,↑,False,71
-Eurozone,2023_Q1,Sovereign Debt,1.49,↓,False,44
-Eurozone,2023_Q2,Sovereign Debt,1.02,↓,False,56
-Eurozone,2023_Q3,Sovereign Debt,1.66,↑,False,45
-Eurozone,2023_Q4,Sovereign Debt,2.2,↑,False,56
-Eurozone,2024_Q1,Sovereign Debt,3.11,↑,False,53
-Eurozone,2024_Q2,Sovereign Debt,4.92,↑,False,66
-Eurozone,2024_Q3,Sovereign Debt,3.88,↓,False,79
-Eurozone,2024_Q4,Sovereign Debt,1.83,↓,False,54
-Eurozone,2025_Q1,Sovereign Debt,2.64,↑,False,64
-Eurozone,2025_Q2,Sovereign Debt,3.97,↑,False,61
-Eurozone,2025_Q3,Sovereign Debt,3.31,↓,False,52
-Eurozone,2025_Q4,Sovereign Debt,1.7,↓,False,53
-Eurozone,2026_Q1,Sovereign Debt,2.42,↑,True,67
-Eurozone,2026_Q2,Sovereign Debt,4.82,↑,True,60
-Eurozone,2026_Q3,Sovereign Debt,2.09,↓,True,57
-Eurozone,2026_Q4,Sovereign Debt,3.77,↑,True,64
-Eurozone,2027_Q1,Sovereign Debt,2.25,↓,True,54
-Eurozone,2027_Q2,Sovereign Debt,3.39,↑,True,48
-Eurozone,2027_Q3,Sovereign Debt,4.54,↑,True,60
-Eurozone,2027_Q4,Sovereign Debt,1.15,↓,True,47
-Eurozone,2028_Q1,Sovereign Debt,2.19,↑,True,50
-Eurozone,2028_Q2,Sovereign Debt,4.52,↑,True,72
-Eurozone,2028_Q3,Sovereign Debt,1.71,↓,True,56
-Eurozone,2028_Q4,Sovereign Debt,2.96,↑,True,71
-Global,2022_Q1,Bank Stability,3.93,→,False,58
-Global,2022_Q2,Bank Stability,1.03,↓,False,52
-Global,2022_Q3,Bank Stability,1.68,↑,False,59
-Global,2022_Q4,Bank Stability,4.02,↑,False,54
-Global,2023_Q1,Bank Stability,4.38,↑,False,77
-Global,2023_Q2,Bank Stability,2.17,↓,False,54
-Global,2023_Q3,Bank Stability,2.3,→,False,55
-Global,2023_Q4,Bank Stability,2.71,↑,False,45
-Global,2024_Q1,Bank Stability,2.16,↓,False,60
-Global,2024_Q2,Bank Stability,2.71,↑,False,53
-Global,2024_Q3,Bank Stability,2.02,↓,False,55
-Global,2024_Q4,Bank Stability,3.12,↑,False,58
-Global,2025_Q1,Bank Stability,1.6,↓,False,63
-Global,2025_Q2,Bank Stability,2.36,↑,False,62
-Global,2025_Q3,Bank Stability,2.12,→,False,70
-Global,2025_Q4,Bank Stability,2.22,→,False,56
-Global,2026_Q1,Bank Stability,3.36,↑,True,66
-Global,2026_Q2,Bank Stability,2.88,↓,True,67
-Global,2026_Q3,Bank Stability,2.94,→,True,55
-Global,2026_Q4,Bank Stability,3.79,↑,True,72
-Global,2027_Q1,Bank Stability,2.35,↓,True,55
-Global,2027_Q2,Bank Stability,2.44,→,True,54
-Global,2027_Q3,Bank Stability,4.18,↑,True,54
-Global,2027_Q4,Bank Stability,1.38,↓,True,57
-Global,2028_Q1,Bank Stability,1.37,→,True,41
-Global,2028_Q2,Bank Stability,4.55,↑,True,61
-Global,2028_Q3,Bank Stability,4.77,→,True,64
-Global,2028_Q4,Bank Stability,4.38,↓,True,51
-Global,2022_Q1,China Slowdown,4.46,→,False,58
-Global,2022_Q2,China Slowdown,4.9,↑,False,52
-Global,2022_Q3,China Slowdown,2.22,↓,False,59
-Global,2022_Q4,China Slowdown,4.37,↑,False,54
-Global,2023_Q1,China Slowdown,3.43,↓,False,77
-Global,2023_Q2,China Slowdown,3.42,→,False,54
-Global,2023_Q3,China Slowdown,1.48,↓,False,55
-Global,2023_Q4,China Slowdown,2.26,↑,False,45
-Global,2024_Q1,China Slowdown,4.49,↑,False,60
-Global,2024_Q2,China Slowdown,2.67,↓,False,53
-Global,2024_Q3,China Slowdown,4.99,↑,False,55
-Global,2024_Q4,China Slowdown,2.48,↓,False,58
-Global,2025_Q1,China Slowdown,1.88,↓,False,63
-Global,2025_Q2,China Slowdown,3.64,↑,False,62
-Global,2025_Q3,China Slowdown,4.55,↑,False,70
-Global,2025_Q4,China Slowdown,1.07,↓,False,56
-Global,2026_Q1,China Slowdown,2.4,↑,True,66
-Global,2026_Q2,China Slowdown,2.32,→,True,67
-Global,2026_Q3,China Slowdown,1.28,↓,True,55
-Global,2026_Q4,China Slowdown,4.24,↑,True,72
-Global,2027_Q1,China Slowdown,2.86,↓,True,55
-Global,2027_Q2,China Slowdown,3.49,↑,True,54
-Global,2027_Q3,China Slowdown,4.85,↑,True,54
-Global,2027_Q4,China Slowdown,3.63,↓,True,57
-Global,2028_Q1,China Slowdown,1.07,↓,True,41
-Global,2028_Q2,China Slowdown,3.16,↑,True,61
-Global,2028_Q3,China Slowdown,1.28,↓,True,64
-Global,2028_Q4,China Slowdown,3.79,↑,True,51
-Global,2022_Q1,Emerging Market Debt,1.62,→,False,58
-Global,2022_Q2,Emerging Market Debt,3.1,↑,False,52
-Global,2022_Q3,Emerging Market Debt,4.8,↑,False,59
-Global,2022_Q4,Emerging Market Debt,1.83,↓,False,54
-Global,2023_Q1,Emerging Market Debt,3.16,↑,False,77
-Global,2023_Q2,Emerging Market Debt,1.8,↓,False,54
-Global,2023_Q3,Emerging Market Debt,3.55,↑,False,55
-Global,2023_Q4,Emerging Market Debt,1.43,↓,False,45
-Global,2024_Q1,Emerging Market Debt,4.72,↑,False,60
-Global,2024_Q2,Emerging Market Debt,4.44,→,False,53
-Global,2024_Q3,Emerging Market Debt,3.79,↓,False,55
-Global,2024_Q4,Emerging Market Debt,3.21,↓,False,58
-Global,2025_Q1,Emerging Market Debt,3.78,↑,False,63
-Global,2025_Q2,Emerging Market Debt,4.7,↑,False,62
-Global,2025_Q3,Emerging Market Debt,4.39,↓,False,70
-Global,2025_Q4,Emerging Market Debt,2.79,↓,False,56
-Global,2026_Q1,Emerging Market Debt,2.95,→,True,66
-Global,2026_Q2,Emerging Market Debt,4.53,↑,True,67
-Global,2026_Q3,Emerging Market Debt,2.58,↓,True,55
-Global,2026_Q4,Emerging Market Debt,2.44,→,True,72
-Global,2027_Q1,Emerging Market Debt,1.38,↓,True,55
-Global,2027_Q2,Emerging Market Debt,3.09,↑,True,54
-Global,2027_Q3,Emerging Market Debt,2.76,↓,True,54
-Global,2027_Q4,Emerging Market Debt,4.74,↑,True,57
-Global,2028_Q1,Emerging Market Debt,2.25,↓,True,41
-Global,2028_Q2,Emerging Market Debt,1.06,↓,True,61
-Global,2028_Q3,Emerging Market Debt,4.84,↑,True,64
-Global,2028_Q4,Emerging Market Debt,4.26,↓,True,51
-Global,2022_Q1,Geopolitical Conflict,3.39,→,False,58
-Global,2022_Q2,Geopolitical Conflict,1.09,↓,False,52
-Global,2022_Q3,Geopolitical Conflict,1.26,→,False,59
-Global,2022_Q4,Geopolitical Conflict,2.7,↑,False,54
-Global,2023_Q1,Geopolitical Conflict,3.99,↑,False,77
-Global,2023_Q2,Geopolitical Conflict,1.06,↓,False,54
-Global,2023_Q3,Geopolitical Conflict,3.92,↑,False,55
-Global,2023_Q4,Geopolitical Conflict,1.1,↓,False,45
-Global,2024_Q1,Geopolitical Conflict,1.64,↑,False,60
-Global,2024_Q2,Geopolitical Conflict,4.27,↑,False,53
-Global,2024_Q3,Geopolitical Conflict,1.99,↓,False,55
-Global,2024_Q4,Geopolitical Conflict,2.79,↑,False,58
-Global,2025_Q1,Geopolitical Conflict,3.03,→,False,63
-Global,2025_Q2,Geopolitical Conflict,1.45,↓,False,62
-Global,2025_Q3,Geopolitical Conflict,3.8,↑,False,70
-Global,2025_Q4,Geopolitical Conflict,2.94,↓,False,56
-Global,2026_Q1,Geopolitical Conflict,4.92,↑,True,66
-Global,2026_Q2,Geopolitical Conflict,2.12,↓,True,67
-Global,2026_Q3,Geopolitical Conflict,2.49,↑,True,55
-Global,2026_Q4,Geopolitical Conflict,3.81,↑,True,72
-Global,2027_Q1,Geopolitical Conflict,2.5,↓,True,55
-Global,2027_Q2,Geopolitical Conflict,1.51,↓,True,54
-Global,2027_Q3,Geopolitical Conflict,2.08,↑,True,54
-Global,2027_Q4,Geopolitical Conflict,1.73,↓,True,57
-Global,2028_Q1,Geopolitical Conflict,1.38,↓,True,41
-Global,2028_Q2,Geopolitical Conflict,2.04,↑,True,61
-Global,2028_Q3,Geopolitical Conflict,2.54,↑,True,64
-Global,2028_Q4,Geopolitical Conflict,1.09,↓,True,51
-Global,2022_Q1,Housing Bubble,4.8,→,False,58
-Global,2022_Q2,Housing Bubble,3.45,↓,False,52
-Global,2022_Q3,Housing Bubble,3.43,→,False,59
-Global,2022_Q4,Housing Bubble,1.73,↓,False,54
-Global,2023_Q1,Housing Bubble,4.84,↑,False,77
-Global,2023_Q2,Housing Bubble,2.58,↓,False,54
-Global,2023_Q3,Housing Bubble,2.24,↓,False,55
-Global,2023_Q4,Housing Bubble,3.09,↑,False,45
-Global,2024_Q1,Housing Bubble,1.31,↓,False,60
-Global,2024_Q2,Housing Bubble,1.91,↑,False,53
-Global,2024_Q3,Housing Bubble,1.26,↓,False,55
-Global,2024_Q4,Housing Bubble,3.72,↑,False,58
-Global,2025_Q1,Housing Bubble,4.19,↑,False,63
-Global,2025_Q2,Housing Bubble,1.55,↓,False,62
-Global,2025_Q3,Housing Bubble,1.75,→,False,70
-Global,2025_Q4,Housing Bubble,2.14,↑,False,56
-Global,2026_Q1,Housing Bubble,2.0,→,True,66
-Global,2026_Q2,Housing Bubble,4.98,↑,True,67
-Global,2026_Q3,Housing Bubble,2.07,↓,True,55
-Global,2026_Q4,Housing Bubble,3.96,↑,True,72
-Global,2027_Q1,Housing Bubble,4.56,↑,True,55
-Global,2027_Q2,Housing Bubble,4.29,→,True,54
-Global,2027_Q3,Housing Bubble,2.29,↓,True,54
-Global,2027_Q4,Housing Bubble,1.96,↓,True,57
-Global,2028_Q1,Housing Bubble,2.37,↑,True,41
-Global,2028_Q2,Housing Bubble,4.8,↑,True,61
-Global,2028_Q3,Housing Bubble,3.18,↓,True,64
-Global,2028_Q4,Housing Bubble,2.28,↓,True,51
-Global,2022_Q1,Inflation/Rate Shock,1.62,→,False,58
-Global,2022_Q2,Inflation/Rate Shock,2.6,↑,False,52
-Global,2022_Q3,Inflation/Rate Shock,4.86,↑,False,59
-Global,2022_Q4,Inflation/Rate Shock,3.27,↓,False,54
-Global,2023_Q1,Inflation/Rate Shock,3.35,→,False,77
-Global,2023_Q2,Inflation/Rate Shock,3.85,↑,False,54
-Global,2023_Q3,Inflation/Rate Shock,4.55,↑,False,55
-Global,2023_Q4,Inflation/Rate Shock,1.13,↓,False,45
-Global,2024_Q1,Inflation/Rate Shock,4.23,↑,False,60
-Global,2024_Q2,Inflation/Rate Shock,1.03,↓,False,53
-Global,2024_Q3,Inflation/Rate Shock,3.85,↑,False,55
-Global,2024_Q4,Inflation/Rate Shock,3.37,↓,False,58
-Global,2025_Q1,Inflation/Rate Shock,4.43,↑,False,63
-Global,2025_Q2,Inflation/Rate Shock,4.51,→,False,62
-Global,2025_Q3,Inflation/Rate Shock,4.43,→,False,70
-Global,2025_Q4,Inflation/Rate Shock,4.98,↑,False,56
-Global,2026_Q1,Inflation/Rate Shock,4.62,↓,True,66
-Global,2026_Q2,Inflation/Rate Shock,3.99,↓,True,67
-Global,2026_Q3,Inflation/Rate Shock,4.38,↑,True,55
-Global,2026_Q4,Inflation/Rate Shock,2.17,↓,True,72
-Global,2027_Q1,Inflation/Rate Shock,3.31,↑,True,55
-Global,2027_Q2,Inflation/Rate Shock,4.08,↑,True,54
-Global,2027_Q3,Inflation/Rate Shock,1.31,↓,True,54
-Global,2027_Q4,Inflation/Rate Shock,3.55,↑,True,57
-Global,2028_Q1,Inflation/Rate Shock,4.92,↑,True,41
-Global,2028_Q2,Inflation/Rate Shock,4.73,→,True,61
-Global,2028_Q3,Inflation/Rate Shock,4.62,→,True,64
-Global,2028_Q4,Inflation/Rate Shock,2.13,↓,True,51
-Global,2022_Q1,Market Liquidity,1.23,→,False,58
-Global,2022_Q2,Market Liquidity,1.19,→,False,52
-Global,2022_Q3,Market Liquidity,4.23,↑,False,59
-Global,2022_Q4,Market Liquidity,1.13,↓,False,54
-Global,2023_Q1,Market Liquidity,4.86,↑,False,77
-Global,2023_Q2,Market Liquidity,4.16,↓,False,54
-Global,2023_Q3,Market Liquidity,2.89,↓,False,55
-Global,2023_Q4,Market Liquidity,3.55,↑,False,45
-Global,2024_Q1,Market Liquidity,3.53,→,False,60
-Global,2024_Q2,Market Liquidity,3.04,↓,False,53
-Global,2024_Q3,Market Liquidity,1.59,↓,False,55
-Global,2024_Q4,Market Liquidity,1.32,→,False,58
-Global,2025_Q1,Market Liquidity,2.3,↑,False,63
-Global,2025_Q2,Market Liquidity,2.03,→,False,62
-Global,2025_Q3,Market Liquidity,2.62,↑,False,70
-Global,2025_Q4,Market Liquidity,1.7,↓,False,56
-Global,2026_Q1,Market Liquidity,2.74,↑,True,66
-Global,2026_Q2,Market Liquidity,4.81,↑,True,67
-Global,2026_Q3,Market Liquidity,4.72,→,True,55
-Global,2026_Q4,Market Liquidity,4.24,↓,True,72
-Global,2027_Q1,Market Liquidity,1.14,↓,True,55
-Global,2027_Q2,Market Liquidity,1.86,↑,True,54
-Global,2027_Q3,Market Liquidity,1.1,↓,True,54
-Global,2027_Q4,Market Liquidity,3.07,↑,True,57
-Global,2028_Q1,Market Liquidity,1.7,↓,True,41
-Global,2028_Q2,Market Liquidity,3.0,↑,True,61
-Global,2028_Q3,Market Liquidity,1.78,↓,True,64
-Global,2028_Q4,Market Liquidity,1.47,↓,True,51
-Global,2022_Q1,Sovereign Debt,2.5,→,False,58
-Global,2022_Q2,Sovereign Debt,3.47,↑,False,52
-Global,2022_Q3,Sovereign Debt,1.19,↓,False,59
-Global,2022_Q4,Sovereign Debt,2.56,↑,False,54
-Global,2023_Q1,Sovereign Debt,3.08,↑,False,77
-Global,2023_Q2,Sovereign Debt,2.69,↓,False,54
-Global,2023_Q3,Sovereign Debt,1.25,↓,False,55
-Global,2023_Q4,Sovereign Debt,2.98,↑,False,45
-Global,2024_Q1,Sovereign Debt,1.92,↓,False,60
-Global,2024_Q2,Sovereign Debt,1.44,↓,False,53
-Global,2024_Q3,Sovereign Debt,2.62,↑,False,55
-Global,2024_Q4,Sovereign Debt,3.54,↑,False,58
-Global,2025_Q1,Sovereign Debt,4.27,↑,False,63
-Global,2025_Q2,Sovereign Debt,4.75,↑,False,62
-Global,2025_Q3,Sovereign Debt,4.53,→,False,70
-Global,2025_Q4,Sovereign Debt,4.89,↑,False,56
-Global,2026_Q1,Sovereign Debt,3.55,↓,True,66
-Global,2026_Q2,Sovereign Debt,1.17,↓,True,67
-Global,2026_Q3,Sovereign Debt,1.76,↑,True,55
-Global,2026_Q4,Sovereign Debt,4.51,↑,True,72
-Global,2027_Q1,Sovereign Debt,4.18,↓,True,55
-Global,2027_Q2,Sovereign Debt,1.15,↓,True,54
-Global,2027_Q3,Sovereign Debt,3.07,↑,True,54
-Global,2027_Q4,Sovereign Debt,2.77,→,True,57
-Global,2028_Q1,Sovereign Debt,1.48,↓,True,41
-Global,2028_Q2,Sovereign Debt,1.19,→,True,61
-Global,2028_Q3,Sovereign Debt,2.83,↑,True,64
-Global,2028_Q4,Sovereign Debt,1.28,↓,True,51
-USA,2022_Q1,Bank Stability,1.14,→,False,54
-USA,2022_Q2,Bank Stability,1.25,→,False,74
-USA,2022_Q3,Bank Stability,4.35,↑,False,73
-USA,2022_Q4,Bank Stability,3.97,↓,False,55
-USA,2023_Q1,Bank Stability,4.12,→,False,66
-USA,2023_Q2,Bank Stability,2.89,↓,False,66
-USA,2023_Q3,Bank Stability,2.01,↓,False,51
-USA,2023_Q4,Bank Stability,1.53,↓,False,66
-USA,2024_Q1,Bank Stability,1.92,↑,False,56
-USA,2024_Q2,Bank Stability,3.5,↑,False,67
-USA,2024_Q3,Bank Stability,3.61,→,False,55
-USA,2024_Q4,Bank Stability,4.44,↑,False,54
-USA,2025_Q1,Bank Stability,1.35,↓,False,39
-USA,2025_Q2,Bank Stability,3.55,↑,False,51
-USA,2025_Q3,Bank Stability,3.39,→,False,57
-USA,2025_Q4,Bank Stability,3.98,↑,False,50
-USA,2026_Q1,Bank Stability,1.12,↓,True,58
-USA,2026_Q2,Bank Stability,3.39,↑,True,66
-USA,2026_Q3,Bank Stability,1.72,↓,True,65
-USA,2026_Q4,Bank Stability,2.25,↑,True,55
-USA,2027_Q1,Bank Stability,2.35,→,True,58
-USA,2027_Q2,Bank Stability,3.34,↑,True,57
-USA,2027_Q3,Bank Stability,1.41,↓,True,52
-USA,2027_Q4,Bank Stability,2.37,↑,True,49
-USA,2028_Q1,Bank Stability,3.65,↑,True,63
-USA,2028_Q2,Bank Stability,3.67,→,True,64
-USA,2028_Q3,Bank Stability,2.62,↓,True,73
-USA,2028_Q4,Bank Stability,3.44,↑,True,62
-USA,2022_Q1,China Slowdown,2.01,→,False,54
-USA,2022_Q2,China Slowdown,3.65,↑,False,74
-USA,2022_Q3,China Slowdown,1.63,↓,False,73
-USA,2022_Q4,China Slowdown,1.03,↓,False,55
-USA,2023_Q1,China Slowdown,2.37,↑,False,66
-USA,2023_Q2,China Slowdown,3.7,↑,False,66
-USA,2023_Q3,China Slowdown,1.41,↓,False,51
-USA,2023_Q4,China Slowdown,4.64,↑,False,66
-USA,2024_Q1,China Slowdown,4.46,→,False,56
-USA,2024_Q2,China Slowdown,4.19,→,False,67
-USA,2024_Q3,China Slowdown,1.6,↓,False,55
-USA,2024_Q4,China Slowdown,1.97,↑,False,54
-USA,2025_Q1,China Slowdown,1.53,↓,False,39
-USA,2025_Q2,China Slowdown,3.17,↑,False,51
-USA,2025_Q3,China Slowdown,2.75,↓,False,57
-USA,2025_Q4,China Slowdown,1.08,↓,False,50
-USA,2026_Q1,China Slowdown,3.97,↑,True,58
-USA,2026_Q2,China Slowdown,2.44,↓,True,66
-USA,2026_Q3,China Slowdown,2.97,↑,True,65
-USA,2026_Q4,China Slowdown,3.39,↑,True,55
-USA,2027_Q1,China Slowdown,3.83,↑,True,58
-USA,2027_Q2,China Slowdown,1.23,↓,True,57
-USA,2027_Q3,China Slowdown,3.74,↑,True,52
-USA,2027_Q4,China Slowdown,4.76,↑,True,49
-USA,2028_Q1,China Slowdown,4.32,↓,True,63
-USA,2028_Q2,China Slowdown,2.27,↓,True,64
-USA,2028_Q3,China Slowdown,4.19,↑,True,73
-USA,2028_Q4,China Slowdown,3.18,↓,True,62
-USA,2022_Q1,Emerging Market Debt,4.73,→,False,54
-USA,2022_Q2,Emerging Market Debt,3.06,↓,False,74
-USA,2022_Q3,Emerging Market Debt,3.72,↑,False,73
-USA,2022_Q4,Emerging Market Debt,4.27,↑,False,55
-USA,2023_Q1,Emerging Market Debt,4.04,→,False,66
-USA,2023_Q2,Emerging Market Debt,1.3,↓,False,66
-USA,2023_Q3,Emerging Market Debt,1.64,↑,False,51
-USA,2023_Q4,Emerging Market Debt,4.85,↑,False,66
-USA,2024_Q1,Emerging Market Debt,1.12,↓,False,56
-USA,2024_Q2,Emerging Market Debt,1.13,→,False,67
-USA,2024_Q3,Emerging Market Debt,3.36,↑,False,55
-USA,2024_Q4,Emerging Market Debt,1.16,↓,False,54
-USA,2025_Q1,Emerging Market Debt,1.13,→,False,39
-USA,2025_Q2,Emerging Market Debt,1.13,→,False,51
-USA,2025_Q3,Emerging Market Debt,2.92,↑,False,57
-USA,2025_Q4,Emerging Market Debt,2.73,→,False,50
-USA,2026_Q1,Emerging Market Debt,2.85,→,True,58
-USA,2026_Q2,Emerging Market Debt,3.62,↑,True,66
-USA,2026_Q3,Emerging Market Debt,4.89,↑,True,65
-USA,2026_Q4,Emerging Market Debt,4.43,↓,True,55
-USA,2027_Q1,Emerging Market Debt,2.72,↓,True,58
-USA,2027_Q2,Emerging Market Debt,1.82,↓,True,57
-USA,2027_Q3,Emerging Market Debt,3.75,↑,True,52
-USA,2027_Q4,Emerging Market Debt,1.5,↓,True,49
-USA,2028_Q1,Emerging Market Debt,2.5,↑,True,63
-USA,2028_Q2,Emerging Market Debt,2.39,→,True,64
-USA,2028_Q3,Emerging Market Debt,3.67,↑,True,73
-USA,2028_Q4,Emerging Market Debt,2.52,↓,True,62
-USA,2022_Q1,Geopolitical Conflict,2.32,→,False,54
-USA,2022_Q2,Geopolitical Conflict,4.53,↑,False,74
-USA,2022_Q3,Geopolitical Conflict,3.79,↓,False,73
-USA,2022_Q4,Geopolitical Conflict,1.64,↓,False,55
-USA,2023_Q1,Geopolitical Conflict,1.43,→,False,66
-USA,2023_Q2,Geopolitical Conflict,1.23,→,False,66
-USA,2023_Q3,Geopolitical Conflict,1.0,→,False,51
-USA,2023_Q4,Geopolitical Conflict,4.47,↑,False,66
-USA,2024_Q1,Geopolitical Conflict,1.85,↓,False,56
-USA,2024_Q2,Geopolitical Conflict,1.52,↓,False,67
-USA,2024_Q3,Geopolitical Conflict,2.3,↑,False,55
-USA,2024_Q4,Geopolitical Conflict,4.12,↑,False,54
-USA,2025_Q1,Geopolitical Conflict,2.4,↓,False,39
-USA,2025_Q2,Geopolitical Conflict,3.83,↑,False,51
-USA,2025_Q3,Geopolitical Conflict,4.14,↑,False,57
-USA,2025_Q4,Geopolitical Conflict,4.49,↑,False,50
-USA,2026_Q1,Geopolitical Conflict,2.03,↓,True,58
-USA,2026_Q2,Geopolitical Conflict,4.17,↑,True,66
-USA,2026_Q3,Geopolitical Conflict,1.95,↓,True,65
-USA,2026_Q4,Geopolitical Conflict,2.6,↑,True,55
-USA,2027_Q1,Geopolitical Conflict,4.32,↑,True,58
-USA,2027_Q2,Geopolitical Conflict,4.47,→,True,57
-USA,2027_Q3,Geopolitical Conflict,3.34,↓,True,52
-USA,2027_Q4,Geopolitical Conflict,3.13,→,True,49
-USA,2028_Q1,Geopolitical Conflict,4.91,↑,True,63
-USA,2028_Q2,Geopolitical Conflict,3.31,↓,True,64
-USA,2028_Q3,Geopolitical Conflict,2.31,↓,True,73
-USA,2028_Q4,Geopolitical Conflict,3.25,↑,True,62
-USA,2022_Q1,Housing Bubble,4.41,→,False,54
-USA,2022_Q2,Housing Bubble,4.97,↑,False,74
-USA,2022_Q3,Housing Bubble,3.83,↓,False,73
-USA,2022_Q4,Housing Bubble,2.34,↓,False,55
-USA,2023_Q1,Housing Bubble,3.16,↑,False,66
-USA,2023_Q2,Housing Bubble,3.83,↑,False,66
-USA,2023_Q3,Housing Bubble,4.28,↑,False,51
-USA,2023_Q4,Housing Bubble,1.92,↓,False,66
-USA,2024_Q1,Housing Bubble,4.58,↑,False,56
-USA,2024_Q2,Housing Bubble,4.04,↓,False,67
-USA,2024_Q3,Housing Bubble,1.64,↓,False,55
-USA,2024_Q4,Housing Bubble,3.78,↑,False,54
-USA,2025_Q1,Housing Bubble,3.07,↓,False,39
-USA,2025_Q2,Housing Bubble,1.42,↓,False,51
-USA,2025_Q3,Housing Bubble,3.21,↑,False,57
-USA,2025_Q4,Housing Bubble,2.88,↓,False,50
-USA,2026_Q1,Housing Bubble,1.29,↓,True,58
-USA,2026_Q2,Housing Bubble,3.42,↑,True,66
-USA,2026_Q3,Housing Bubble,4.64,↑,True,65
-USA,2026_Q4,Housing Bubble,3.61,↓,True,55
-USA,2027_Q1,Housing Bubble,3.08,↓,True,58
-USA,2027_Q2,Housing Bubble,4.22,↑,True,57
-USA,2027_Q3,Housing Bubble,1.35,↓,True,52
-USA,2027_Q4,Housing Bubble,3.09,↑,True,49
-USA,2028_Q1,Housing Bubble,2.02,↓,True,63
-USA,2028_Q2,Housing Bubble,4.31,↑,True,64
-USA,2028_Q3,Housing Bubble,4.51,→,True,73
-USA,2028_Q4,Housing Bubble,3.52,↓,True,62
-USA,2022_Q1,Inflation/Rate Shock,3.94,→,False,54
-USA,2022_Q2,Inflation/Rate Shock,4.63,↑,False,74
-USA,2022_Q3,Inflation/Rate Shock,3.47,↓,False,73
-USA,2022_Q4,Inflation/Rate Shock,4.33,↑,False,55
-USA,2023_Q1,Inflation/Rate Shock,3.17,↓,False,66
-USA,2023_Q2,Inflation/Rate Shock,4.41,↑,False,66
-USA,2023_Q3,Inflation/Rate Shock,2.87,↓,False,51
-USA,2023_Q4,Inflation/Rate Shock,1.13,↓,False,66
-USA,2024_Q1,Inflation/Rate Shock,3.61,↑,False,56
-USA,2024_Q2,Inflation/Rate Shock,4.68,↑,False,67
-USA,2024_Q3,Inflation/Rate Shock,2.73,↓,False,55
-USA,2024_Q4,Inflation/Rate Shock,2.92,→,False,54
-USA,2025_Q1,Inflation/Rate Shock,1.31,↓,False,39
-USA,2025_Q2,Inflation/Rate Shock,4.74,↑,False,51
-USA,2025_Q3,Inflation/Rate Shock,1.16,↓,False,57
-USA,2025_Q4,Inflation/Rate Shock,1.17,→,False,50
-USA,2026_Q1,Inflation/Rate Shock,4.47,↑,True,58
-USA,2026_Q2,Inflation/Rate Shock,4.97,↑,True,66
-USA,2026_Q3,Inflation/Rate Shock,1.72,↓,True,65
-USA,2026_Q4,Inflation/Rate Shock,1.04,↓,True,55
-USA,2027_Q1,Inflation/Rate Shock,1.99,↑,True,58
-USA,2027_Q2,Inflation/Rate Shock,1.45,↓,True,57
-USA,2027_Q3,Inflation/Rate Shock,2.59,↑,True,52
-USA,2027_Q4,Inflation/Rate Shock,1.53,↓,True,49
-USA,2028_Q1,Inflation/Rate Shock,1.07,↓,True,63
-USA,2028_Q2,Inflation/Rate Shock,1.64,↑,True,64
-USA,2028_Q3,Inflation/Rate Shock,4.23,↑,True,73
-USA,2028_Q4,Inflation/Rate Shock,3.19,↓,True,62
-USA,2022_Q1,Market Liquidity,2.13,→,False,54
-USA,2022_Q2,Market Liquidity,3.29,↑,False,74
-USA,2022_Q3,Market Liquidity,4.01,↑,False,73
-USA,2022_Q4,Market Liquidity,3.03,↓,False,55
-USA,2023_Q1,Market Liquidity,4.85,↑,False,66
-USA,2023_Q2,Market Liquidity,4.96,→,False,66
-USA,2023_Q3,Market Liquidity,4.78,→,False,51
-USA,2023_Q4,Market Liquidity,3.93,↓,False,66
-USA,2024_Q1,Market Liquidity,2.47,↓,False,56
-USA,2024_Q2,Market Liquidity,3.47,↑,False,67
-USA,2024_Q3,Market Liquidity,4.94,↑,False,55
-USA,2024_Q4,Market Liquidity,1.42,↓,False,54
-USA,2025_Q1,Market Liquidity,2.59,↑,False,39
-USA,2025_Q2,Market Liquidity,1.21,↓,False,51
-USA,2025_Q3,Market Liquidity,1.66,↑,False,57
-USA,2025_Q4,Market Liquidity,1.65,→,False,50
-USA,2026_Q1,Market Liquidity,3.91,↑,True,58
-USA,2026_Q2,Market Liquidity,2.14,↓,True,66
-USA,2026_Q3,Market Liquidity,4.42,↑,True,65
-USA,2026_Q4,Market Liquidity,3.35,↓,True,55
-USA,2027_Q1,Market Liquidity,3.47,→,True,58
-USA,2027_Q2,Market Liquidity,2.08,↓,True,57
-USA,2027_Q3,Market Liquidity,2.92,↑,True,52
-USA,2027_Q4,Market Liquidity,1.57,↓,True,49
-USA,2028_Q1,Market Liquidity,1.98,↑,True,63
-USA,2028_Q2,Market Liquidity,3.42,↑,True,64
-USA,2028_Q3,Market Liquidity,4.05,↑,True,73
-USA,2028_Q4,Market Liquidity,3.39,↓,True,62
-USA,2022_Q1,Sovereign Debt,1.18,→,False,54
-USA,2022_Q2,Sovereign Debt,4.58,↑,False,74
-USA,2022_Q3,Sovereign Debt,4.47,→,False,73
-USA,2022_Q4,Sovereign Debt,1.52,↓,False,55
-USA,2023_Q1,Sovereign Debt,3.54,↑,False,66
-USA,2023_Q2,Sovereign Debt,4.08,↑,False,66
-USA,2023_Q3,Sovereign Debt,2.49,↓,False,51
-USA,2023_Q4,Sovereign Debt,4.09,↑,False,66
-USA,2024_Q1,Sovereign Debt,2.64,↓,False,56
-USA,2024_Q2,Sovereign Debt,4.38,↑,False,67
-USA,2024_Q3,Sovereign Debt,1.9,↓,False,55
-USA,2024_Q4,Sovereign Debt,2.17,→,False,54
-USA,2025_Q1,Sovereign Debt,2.31,→,False,39
-USA,2025_Q2,Sovereign Debt,1.67,↓,False,51
-USA,2025_Q3,Sovereign Debt,3.64,↑,False,57
-USA,2025_Q4,Sovereign Debt,2.32,↓,False,50
-USA,2026_Q1,Sovereign Debt,3.72,↑,True,58
-USA,2026_Q2,Sovereign Debt,2.58,↓,True,66
-USA,2026_Q3,Sovereign Debt,3.86,↑,True,65
-USA,2026_Q4,Sovereign Debt,1.38,↓,True,55
-USA,2027_Q1,Sovereign Debt,1.68,↑,True,58
-USA,2027_Q2,Sovereign Debt,4.38,↑,True,57
-USA,2027_Q3,Sovereign Debt,1.72,↓,True,52
-USA,2027_Q4,Sovereign Debt,2.02,↑,True,49
-USA,2028_Q1,Sovereign Debt,4.85,↑,True,63
-USA,2028_Q2,Sovereign Debt,4.76,→,True,64
-USA,2028_Q3,Sovereign Debt,3.95,↓,True,73
-USA,2028_Q4,Sovereign Debt,2.31,↓,True,62
+Region,Time,Risk Dimension,Score,Trend,Forecast,Time_Order,Pressure Index
+China,2022_Q1,Bank Stability,3.3,→,False,8089.0,60
+China,2022_Q2,Bank Stability,2.99,↓,False,8090.0,51
+China,2022_Q3,Bank Stability,3.41,↑,False,8091.0,55
+China,2022_Q4,Bank Stability,3.82,↑,False,8092.0,81
+China,2023_Q1,Bank Stability,4.95,↑,False,8093.0,68
+China,2023_Q2,Bank Stability,2.97,↓,False,8094.0,46
+China,2023_Q3,Bank Stability,3.11,→,False,8095.0,63
+China,2023_Q4,Bank Stability,2.18,↓,False,8096.0,59
+China,2024_Q1,Bank Stability,3.79,↑,False,8097.0,74
+China,2024_Q2,Bank Stability,4.51,↑,False,8098.0,66
+China,2024_Q3,Bank Stability,1.25,↓,False,8099.0,43
+China,2024_Q4,Bank Stability,2.51,↑,False,8100.0,51
+China,2025_Q1,Bank Stability,2.23,→,False,8101.0,63
+China,2025_Q2,Bank Stability,3.47,↑,False,8102.0,72
+China,2025_Q3,Bank Stability,1.59,↓,False,8103.0,66
+China,2025_Q4,Bank Stability,3.34,↑,False,8104.0,59
+China,2026_Q1,Bank Stability,2.39,↓,True,8105.0,59
+China,2026_Q2,Bank Stability,3.05,↑,True,8106.0,51
+China,2026_Q3,Bank Stability,3.88,↑,True,8107.0,60
+China,2026_Q4,Bank Stability,2.51,↓,True,8108.0,39
+China,2027_Q1,Bank Stability,3.35,↑,True,8109.0,50
+China,2027_Q2,Bank Stability,1.61,↓,True,8110.0,35
+China,2027_Q3,Bank Stability,4.67,↑,True,8111.0,76
+China,2027_Q4,Bank Stability,1.8,↓,True,8112.0,65
+China,2028_Q1,Bank Stability,1.25,↓,True,8113.0,53
+China,2028_Q2,Bank Stability,3.98,↑,True,8114.0,67
+China,2028_Q3,Bank Stability,1.94,↓,True,8115.0,61
+China,2028_Q4,Bank Stability,4.6,↑,True,8116.0,66
+China,2022_Q1,China Slowdown,4.47,→,False,8089.0,60
+China,2022_Q2,China Slowdown,4.83,↑,False,8090.0,51
+China,2022_Q3,China Slowdown,1.45,↓,False,8091.0,55
+China,2022_Q4,China Slowdown,4.35,↑,False,8092.0,81
+China,2023_Q1,China Slowdown,4.94,↑,False,8093.0,68
+China,2023_Q2,China Slowdown,1.47,↓,False,8094.0,46
+China,2023_Q3,China Slowdown,2.29,↑,False,8095.0,63
+China,2023_Q4,China Slowdown,4.66,↑,False,8096.0,59
+China,2024_Q1,China Slowdown,1.65,↓,False,8097.0,74
+China,2024_Q2,China Slowdown,2.92,↑,False,8098.0,66
+China,2024_Q3,China Slowdown,3.77,↑,False,8099.0,43
+China,2024_Q4,China Slowdown,1.83,↓,False,8100.0,51
+China,2025_Q1,China Slowdown,3.36,↑,False,8101.0,63
+China,2025_Q2,China Slowdown,1.36,↓,False,8102.0,72
+China,2025_Q3,China Slowdown,4.92,↑,False,8103.0,66
+China,2025_Q4,China Slowdown,2.65,↓,False,8104.0,59
+China,2026_Q1,China Slowdown,4.58,↑,True,8105.0,59
+China,2026_Q2,China Slowdown,1.34,↓,True,8106.0,51
+China,2026_Q3,China Slowdown,4.38,↑,True,8107.0,60
+China,2026_Q4,China Slowdown,1.48,↓,True,8108.0,39
+China,2027_Q1,China Slowdown,2.45,↑,True,8109.0,50
+China,2027_Q2,China Slowdown,1.69,↓,True,8110.0,35
+China,2027_Q3,China Slowdown,4.28,↑,True,8111.0,76
+China,2027_Q4,China Slowdown,1.35,↓,True,8112.0,65
+China,2028_Q1,China Slowdown,3.73,↑,True,8113.0,53
+China,2028_Q2,China Slowdown,2.52,↓,True,8114.0,67
+China,2028_Q3,China Slowdown,3.73,↑,True,8115.0,61
+China,2028_Q4,China Slowdown,1.47,↓,True,8116.0,66
+China,2022_Q1,Emerging Market Debt,1.51,→,False,8089.0,60
+China,2022_Q2,Emerging Market Debt,2.19,↑,False,8090.0,51
+China,2022_Q3,Emerging Market Debt,1.85,↓,False,8091.0,55
+China,2022_Q4,Emerging Market Debt,3.75,↑,False,8092.0,81
+China,2023_Q1,Emerging Market Debt,2.48,↓,False,8093.0,68
+China,2023_Q2,Emerging Market Debt,2.87,↑,False,8094.0,46
+China,2023_Q3,Emerging Market Debt,4.21,↑,False,8095.0,63
+China,2023_Q4,Emerging Market Debt,3.79,↓,False,8096.0,59
+China,2024_Q1,Emerging Market Debt,2.24,↓,False,8097.0,74
+China,2024_Q2,Emerging Market Debt,1.66,↓,False,8098.0,66
+China,2024_Q3,Emerging Market Debt,1.54,→,False,8099.0,43
+China,2024_Q4,Emerging Market Debt,1.82,→,False,8100.0,51
+China,2025_Q1,Emerging Market Debt,4.87,↑,False,8101.0,63
+China,2025_Q2,Emerging Market Debt,3.43,↓,False,8102.0,72
+China,2025_Q3,Emerging Market Debt,2.97,↓,False,8103.0,66
+China,2025_Q4,Emerging Market Debt,3.79,↑,False,8104.0,59
+China,2026_Q1,Emerging Market Debt,3.19,↓,True,8105.0,59
+China,2026_Q2,Emerging Market Debt,2.51,↓,True,8106.0,51
+China,2026_Q3,Emerging Market Debt,1.59,↓,True,8107.0,60
+China,2026_Q4,Emerging Market Debt,2.29,↑,True,8108.0,39
+China,2027_Q1,Emerging Market Debt,2.73,↑,True,8109.0,50
+China,2027_Q2,Emerging Market Debt,1.64,↓,True,8110.0,35
+China,2027_Q3,Emerging Market Debt,4.9,↑,True,8111.0,76
+China,2027_Q4,Emerging Market Debt,3.12,↓,True,8112.0,65
+China,2028_Q1,Emerging Market Debt,2.29,↓,True,8113.0,53
+China,2028_Q2,Emerging Market Debt,4.73,↑,True,8114.0,67
+China,2028_Q3,Emerging Market Debt,4.63,→,True,8115.0,61
+China,2028_Q4,Emerging Market Debt,3.17,↓,True,8116.0,66
+China,2022_Q1,Geopolitical Conflict,3.93,→,False,8089.0,60
+China,2022_Q2,Geopolitical Conflict,2.56,↓,False,8090.0,51
+China,2022_Q3,Geopolitical Conflict,3.21,↑,False,8091.0,55
+China,2022_Q4,Geopolitical Conflict,4.87,↑,False,8092.0,81
+China,2023_Q1,Geopolitical Conflict,2.5,↓,False,8093.0,68
+China,2023_Q2,Geopolitical Conflict,1.05,↓,False,8094.0,46
+China,2023_Q3,Geopolitical Conflict,2.75,↑,False,8095.0,63
+China,2023_Q4,Geopolitical Conflict,4.98,↑,False,8096.0,59
+China,2024_Q1,Geopolitical Conflict,3.14,↓,False,8097.0,74
+China,2024_Q2,Geopolitical Conflict,3.21,→,False,8098.0,66
+China,2024_Q3,Geopolitical Conflict,1.15,↓,False,8099.0,43
+China,2024_Q4,Geopolitical Conflict,1.96,↑,False,8100.0,51
+China,2025_Q1,Geopolitical Conflict,4.27,↑,False,8101.0,63
+China,2025_Q2,Geopolitical Conflict,4.92,↑,False,8102.0,72
+China,2025_Q3,Geopolitical Conflict,4.71,→,False,8103.0,66
+China,2025_Q4,Geopolitical Conflict,2.6,↓,False,8104.0,59
+China,2026_Q1,Geopolitical Conflict,1.13,↓,True,8105.0,59
+China,2026_Q2,Geopolitical Conflict,1.63,↑,True,8106.0,51
+China,2026_Q3,Geopolitical Conflict,1.25,↓,True,8107.0,60
+China,2026_Q4,Geopolitical Conflict,1.08,→,True,8108.0,39
+China,2027_Q1,Geopolitical Conflict,3.98,↑,True,8109.0,50
+China,2027_Q2,Geopolitical Conflict,1.98,↓,True,8110.0,35
+China,2027_Q3,Geopolitical Conflict,1.02,↓,True,8111.0,76
+China,2027_Q4,Geopolitical Conflict,3.94,↑,True,8112.0,65
+China,2028_Q1,Geopolitical Conflict,4.96,↑,True,8113.0,53
+China,2028_Q2,Geopolitical Conflict,2.63,↓,True,8114.0,67
+China,2028_Q3,Geopolitical Conflict,3.54,↑,True,8115.0,61
+China,2028_Q4,Geopolitical Conflict,2.54,↓,True,8116.0,66
+China,2022_Q1,Housing Bubble,3.27,→,False,8089.0,60
+China,2022_Q2,Housing Bubble,3.14,→,False,8090.0,51
+China,2022_Q3,Housing Bubble,1.37,↓,False,8091.0,55
+China,2022_Q4,Housing Bubble,3.18,↑,False,8092.0,81
+China,2023_Q1,Housing Bubble,1.34,↓,False,8093.0,68
+China,2023_Q2,Housing Bubble,1.44,→,False,8094.0,46
+China,2023_Q3,Housing Bubble,1.33,→,False,8095.0,63
+China,2023_Q4,Housing Bubble,1.87,↑,False,8096.0,59
+China,2024_Q1,Housing Bubble,4.94,↑,False,8097.0,74
+China,2024_Q2,Housing Bubble,1.33,↓,False,8098.0,66
+China,2024_Q3,Housing Bubble,3.28,↑,False,8099.0,43
+China,2024_Q4,Housing Bubble,4.03,↑,False,8100.0,51
+China,2025_Q1,Housing Bubble,4.33,→,False,8101.0,63
+China,2025_Q2,Housing Bubble,4.61,→,False,8102.0,72
+China,2025_Q3,Housing Bubble,4.8,→,False,8103.0,66
+China,2025_Q4,Housing Bubble,2.84,↓,False,8104.0,59
+China,2026_Q1,Housing Bubble,2.38,↓,True,8105.0,59
+China,2026_Q2,Housing Bubble,3.75,↑,True,8106.0,51
+China,2026_Q3,Housing Bubble,3.13,↓,True,8107.0,60
+China,2026_Q4,Housing Bubble,2.08,↓,True,8108.0,39
+China,2027_Q1,Housing Bubble,3.15,↑,True,8109.0,50
+China,2027_Q2,Housing Bubble,1.41,↓,True,8110.0,35
+China,2027_Q3,Housing Bubble,3.3,↑,True,8111.0,76
+China,2027_Q4,Housing Bubble,3.84,↑,True,8112.0,65
+China,2028_Q1,Housing Bubble,1.54,↓,True,8113.0,53
+China,2028_Q2,Housing Bubble,4.4,↑,True,8114.0,67
+China,2028_Q3,Housing Bubble,1.75,↓,True,8115.0,61
+China,2028_Q4,Housing Bubble,1.93,→,True,8116.0,66
+China,2022_Q1,Inflation/Rate Shock,2.0,→,False,8089.0,60
+China,2022_Q2,Inflation/Rate Shock,1.4,↓,False,8090.0,51
+China,2022_Q3,Inflation/Rate Shock,4.78,↑,False,8091.0,55
+China,2022_Q4,Inflation/Rate Shock,4.35,↓,False,8092.0,81
+China,2023_Q1,Inflation/Rate Shock,4.25,→,False,8093.0,68
+China,2023_Q2,Inflation/Rate Shock,1.23,↓,False,8094.0,46
+China,2023_Q3,Inflation/Rate Shock,4.91,↑,False,8095.0,63
+China,2023_Q4,Inflation/Rate Shock,2.54,↓,False,8096.0,59
+China,2024_Q1,Inflation/Rate Shock,4.26,↑,False,8097.0,74
+China,2024_Q2,Inflation/Rate Shock,2.65,↓,False,8098.0,66
+China,2024_Q3,Inflation/Rate Shock,1.05,↓,False,8099.0,43
+China,2024_Q4,Inflation/Rate Shock,2.01,↑,False,8100.0,51
+China,2025_Q1,Inflation/Rate Shock,1.35,↓,False,8101.0,63
+China,2025_Q2,Inflation/Rate Shock,3.55,↑,False,8102.0,72
+China,2025_Q3,Inflation/Rate Shock,2.03,↓,False,8103.0,66
+China,2025_Q4,Inflation/Rate Shock,1.72,↓,False,8104.0,59
+China,2026_Q1,Inflation/Rate Shock,3.14,↑,True,8105.0,59
+China,2026_Q2,Inflation/Rate Shock,1.01,↓,True,8106.0,51
+China,2026_Q3,Inflation/Rate Shock,1.53,↑,True,8107.0,60
+China,2026_Q4,Inflation/Rate Shock,1.85,↑,True,8108.0,39
+China,2027_Q1,Inflation/Rate Shock,1.51,↓,True,8109.0,50
+China,2027_Q2,Inflation/Rate Shock,1.75,→,True,8110.0,35
+China,2027_Q3,Inflation/Rate Shock,2.96,↑,True,8111.0,76
+China,2027_Q4,Inflation/Rate Shock,3.83,↑,True,8112.0,65
+China,2028_Q1,Inflation/Rate Shock,4.24,↑,True,8113.0,53
+China,2028_Q2,Inflation/Rate Shock,4.96,↑,True,8114.0,67
+China,2028_Q3,Inflation/Rate Shock,2.26,↓,True,8115.0,61
+China,2028_Q4,Inflation/Rate Shock,4.63,↑,True,8116.0,66
+China,2022_Q1,Market Liquidity,3.32,→,False,8089.0,60
+China,2022_Q2,Market Liquidity,1.21,↓,False,8090.0,51
+China,2022_Q3,Market Liquidity,4.13,↑,False,8091.0,55
+China,2022_Q4,Market Liquidity,4.47,↑,False,8092.0,81
+China,2023_Q1,Market Liquidity,4.79,↑,False,8093.0,68
+China,2023_Q2,Market Liquidity,1.48,↓,False,8094.0,46
+China,2023_Q3,Market Liquidity,3.22,↑,False,8095.0,63
+China,2023_Q4,Market Liquidity,3.95,↑,False,8096.0,59
+China,2024_Q1,Market Liquidity,3.74,→,False,8097.0,74
+China,2024_Q2,Market Liquidity,4.11,↑,False,8098.0,66
+China,2024_Q3,Market Liquidity,1.3,↓,False,8099.0,43
+China,2024_Q4,Market Liquidity,2.1,↑,False,8100.0,51
+China,2025_Q1,Market Liquidity,4.17,↑,False,8101.0,63
+China,2025_Q2,Market Liquidity,3.22,↓,False,8102.0,72
+China,2025_Q3,Market Liquidity,2.84,↓,False,8103.0,66
+China,2025_Q4,Market Liquidity,3.79,↑,False,8104.0,59
+China,2026_Q1,Market Liquidity,2.42,↓,True,8105.0,59
+China,2026_Q2,Market Liquidity,4.47,↑,True,8106.0,51
+China,2026_Q3,Market Liquidity,3.75,↓,True,8107.0,60
+China,2026_Q4,Market Liquidity,2.31,↓,True,8108.0,39
+China,2027_Q1,Market Liquidity,2.14,→,True,8109.0,50
+China,2027_Q2,Market Liquidity,2.14,→,True,8110.0,35
+China,2027_Q3,Market Liquidity,3.89,↑,True,8111.0,76
+China,2027_Q4,Market Liquidity,4.07,→,True,8112.0,65
+China,2028_Q1,Market Liquidity,2.02,↓,True,8113.0,53
+China,2028_Q2,Market Liquidity,1.82,→,True,8114.0,67
+China,2028_Q3,Market Liquidity,3.35,↑,True,8115.0,61
+China,2028_Q4,Market Liquidity,3.5,→,True,8116.0,66
+China,2022_Q1,Sovereign Debt,2.69,→,False,8089.0,60
+China,2022_Q2,Sovereign Debt,2.51,→,False,8090.0,51
+China,2022_Q3,Sovereign Debt,1.33,↓,False,8091.0,55
+China,2022_Q4,Sovereign Debt,3.95,↑,False,8092.0,81
+China,2023_Q1,Sovereign Debt,1.33,↓,False,8093.0,68
+China,2023_Q2,Sovereign Debt,4.63,↑,False,8094.0,46
+China,2023_Q3,Sovereign Debt,2.91,↓,False,8095.0,63
+China,2023_Q4,Sovereign Debt,1.66,↓,False,8096.0,59
+China,2024_Q1,Sovereign Debt,4.9,↑,False,8097.0,74
+China,2024_Q2,Sovereign Debt,4.68,→,False,8098.0,66
+China,2024_Q3,Sovereign Debt,4.32,↓,False,8099.0,43
+China,2024_Q4,Sovereign Debt,3.9,↓,False,8100.0,51
+China,2025_Q1,Sovereign Debt,2.9,↓,False,8101.0,63
+China,2025_Q2,Sovereign Debt,4.22,↑,False,8102.0,72
+China,2025_Q3,Sovereign Debt,4.45,→,False,8103.0,66
+China,2025_Q4,Sovereign Debt,3.15,↓,False,8104.0,59
+China,2026_Q1,Sovereign Debt,4.29,↑,True,8105.0,59
+China,2026_Q2,Sovereign Debt,2.92,↓,True,8106.0,51
+China,2026_Q3,Sovereign Debt,4.04,↑,True,8107.0,60
+China,2026_Q4,Sovereign Debt,1.97,↓,True,8108.0,39
+China,2027_Q1,Sovereign Debt,1.35,↓,True,8109.0,50
+China,2027_Q2,Sovereign Debt,1.95,↑,True,8110.0,35
+China,2027_Q3,Sovereign Debt,4.59,↑,True,8111.0,76
+China,2027_Q4,Sovereign Debt,4.87,→,True,8112.0,65
+China,2028_Q1,Sovereign Debt,2.35,↓,True,8113.0,53
+China,2028_Q2,Sovereign Debt,1.43,↓,True,8114.0,67
+China,2028_Q3,Sovereign Debt,4.3,↑,True,8115.0,61
+China,2028_Q4,Sovereign Debt,3.01,↓,True,8116.0,66
+Eurozone,2022_Q1,Bank Stability,3.29,→,False,8089.0,70
+Eurozone,2022_Q2,Bank Stability,4.39,↑,False,8090.0,61
+Eurozone,2022_Q3,Bank Stability,4.84,↑,False,8091.0,66
+Eurozone,2022_Q4,Bank Stability,3.79,↓,False,8092.0,71
+Eurozone,2023_Q1,Bank Stability,1.66,↓,False,8093.0,42
+Eurozone,2023_Q2,Bank Stability,2.59,↑,False,8094.0,53
+Eurozone,2023_Q3,Bank Stability,2.25,↓,False,8095.0,44
+Eurozone,2023_Q4,Bank Stability,2.59,↑,False,8096.0,55
+Eurozone,2024_Q1,Bank Stability,2.92,↑,False,8097.0,52
+Eurozone,2024_Q2,Bank Stability,4.47,↑,False,8098.0,68
+Eurozone,2024_Q3,Bank Stability,4.95,↑,False,8099.0,82
+Eurozone,2024_Q4,Bank Stability,1.73,↓,False,8100.0,53
+Eurozone,2025_Q1,Bank Stability,2.74,↑,False,8101.0,63
+Eurozone,2025_Q2,Bank Stability,2.61,→,False,8102.0,61
+Eurozone,2025_Q3,Bank Stability,3.22,↑,False,8103.0,53
+Eurozone,2025_Q4,Bank Stability,2.68,↓,False,8104.0,51
+Eurozone,2026_Q1,Bank Stability,2.19,↓,True,8105.0,64
+Eurozone,2026_Q2,Bank Stability,3.49,↑,True,8106.0,62
+Eurozone,2026_Q3,Bank Stability,2.44,↓,True,8107.0,54
+Eurozone,2026_Q4,Bank Stability,2.0,↓,True,8108.0,64
+Eurozone,2027_Q1,Bank Stability,3.92,↑,True,8109.0,56
+Eurozone,2027_Q2,Bank Stability,1.48,↓,True,8110.0,47
+Eurozone,2027_Q3,Bank Stability,1.93,↑,True,8111.0,57
+Eurozone,2027_Q4,Bank Stability,3.32,↑,True,8112.0,46
+Eurozone,2028_Q1,Bank Stability,1.17,↓,True,8113.0,47
+Eurozone,2028_Q2,Bank Stability,2.87,↑,True,8114.0,73
+Eurozone,2028_Q3,Bank Stability,1.75,↓,True,8115.0,51
+Eurozone,2028_Q4,Bank Stability,4.59,↑,True,8116.0,73
+Eurozone,2022_Q1,China Slowdown,1.57,→,False,8089.0,70
+Eurozone,2022_Q2,China Slowdown,1.92,↑,False,8090.0,61
+Eurozone,2022_Q3,China Slowdown,3.46,↑,False,8091.0,66
+Eurozone,2022_Q4,China Slowdown,3.43,→,False,8092.0,71
+Eurozone,2023_Q1,China Slowdown,1.91,↓,False,8093.0,42
+Eurozone,2023_Q2,China Slowdown,3.95,↑,False,8094.0,53
+Eurozone,2023_Q3,China Slowdown,3.06,↓,False,8095.0,44
+Eurozone,2023_Q4,China Slowdown,3.5,↑,False,8096.0,55
+Eurozone,2024_Q1,China Slowdown,1.3,↓,False,8097.0,52
+Eurozone,2024_Q2,China Slowdown,3.02,↑,False,8098.0,68
+Eurozone,2024_Q3,China Slowdown,1.56,↓,False,8099.0,82
+Eurozone,2024_Q4,China Slowdown,2.37,↑,False,8100.0,53
+Eurozone,2025_Q1,China Slowdown,4.47,↑,False,8101.0,63
+Eurozone,2025_Q2,China Slowdown,4.6,→,False,8102.0,61
+Eurozone,2025_Q3,China Slowdown,1.55,↓,False,8103.0,53
+Eurozone,2025_Q4,China Slowdown,3.95,↑,False,8104.0,51
+Eurozone,2026_Q1,China Slowdown,3.93,→,True,8105.0,64
+Eurozone,2026_Q2,China Slowdown,3.82,→,True,8106.0,62
+Eurozone,2026_Q3,China Slowdown,2.78,↓,True,8107.0,54
+Eurozone,2026_Q4,China Slowdown,1.16,↓,True,8108.0,64
+Eurozone,2027_Q1,China Slowdown,3.98,↑,True,8109.0,56
+Eurozone,2027_Q2,China Slowdown,1.26,↓,True,8110.0,47
+Eurozone,2027_Q3,China Slowdown,3.12,↑,True,8111.0,57
+Eurozone,2027_Q4,China Slowdown,3.09,→,True,8112.0,46
+Eurozone,2028_Q1,China Slowdown,3.72,↑,True,8113.0,47
+Eurozone,2028_Q2,China Slowdown,4.77,↑,True,8114.0,73
+Eurozone,2028_Q3,China Slowdown,4.54,→,True,8115.0,51
+Eurozone,2028_Q4,China Slowdown,4.58,→,True,8116.0,73
+Eurozone,2022_Q1,Emerging Market Debt,4.01,→,False,8089.0,70
+Eurozone,2022_Q2,Emerging Market Debt,2.59,↓,False,8090.0,61
+Eurozone,2022_Q3,Emerging Market Debt,1.91,↓,False,8091.0,66
+Eurozone,2022_Q4,Emerging Market Debt,3.83,↑,False,8092.0,71
+Eurozone,2023_Q1,Emerging Market Debt,4.35,↑,False,8093.0,42
+Eurozone,2023_Q2,Emerging Market Debt,4.68,↑,False,8094.0,53
+Eurozone,2023_Q3,Emerging Market Debt,2.11,↓,False,8095.0,44
+Eurozone,2023_Q4,Emerging Market Debt,4.2,↑,False,8096.0,55
+Eurozone,2024_Q1,Emerging Market Debt,4.06,→,False,8097.0,52
+Eurozone,2024_Q2,Emerging Market Debt,3.21,↓,False,8098.0,68
+Eurozone,2024_Q3,Emerging Market Debt,4.23,↑,False,8099.0,82
+Eurozone,2024_Q4,Emerging Market Debt,2.69,↓,False,8100.0,53
+Eurozone,2025_Q1,Emerging Market Debt,4.79,↑,False,8101.0,63
+Eurozone,2025_Q2,Emerging Market Debt,3.58,↓,False,8102.0,61
+Eurozone,2025_Q3,Emerging Market Debt,4.32,↑,False,8103.0,53
+Eurozone,2025_Q4,Emerging Market Debt,3.08,↓,False,8104.0,51
+Eurozone,2026_Q1,Emerging Market Debt,2.9,→,True,8105.0,64
+Eurozone,2026_Q2,Emerging Market Debt,2.38,↓,True,8106.0,62
+Eurozone,2026_Q3,Emerging Market Debt,4.67,↑,True,8107.0,54
+Eurozone,2026_Q4,Emerging Market Debt,1.88,↓,True,8108.0,64
+Eurozone,2027_Q1,Emerging Market Debt,1.46,↓,True,8109.0,56
+Eurozone,2027_Q2,Emerging Market Debt,3.79,↑,True,8110.0,47
+Eurozone,2027_Q3,Emerging Market Debt,4.48,↑,True,8111.0,57
+Eurozone,2027_Q4,Emerging Market Debt,2.59,↓,True,8112.0,46
+Eurozone,2028_Q1,Emerging Market Debt,4.95,↑,True,8113.0,47
+Eurozone,2028_Q2,Emerging Market Debt,1.67,↓,True,8114.0,73
+Eurozone,2028_Q3,Emerging Market Debt,2.4,↑,True,8115.0,51
+Eurozone,2028_Q4,Emerging Market Debt,3.49,↑,True,8116.0,73
+Eurozone,2022_Q1,Geopolitical Conflict,4.99,→,False,8089.0,70
+Eurozone,2022_Q2,Geopolitical Conflict,1.51,↓,False,8090.0,61
+Eurozone,2022_Q3,Geopolitical Conflict,2.37,↑,False,8091.0,66
+Eurozone,2022_Q4,Geopolitical Conflict,4.69,↑,False,8092.0,71
+Eurozone,2023_Q1,Geopolitical Conflict,1.75,↓,False,8093.0,42
+Eurozone,2023_Q2,Geopolitical Conflict,3.15,↑,False,8094.0,53
+Eurozone,2023_Q3,Geopolitical Conflict,4.12,↑,False,8095.0,44
+Eurozone,2023_Q4,Geopolitical Conflict,2.71,↓,False,8096.0,55
+Eurozone,2024_Q1,Geopolitical Conflict,2.99,→,False,8097.0,52
+Eurozone,2024_Q2,Geopolitical Conflict,2.63,↓,False,8098.0,68
+Eurozone,2024_Q3,Geopolitical Conflict,3.41,↑,False,8099.0,82
+Eurozone,2024_Q4,Geopolitical Conflict,3.33,→,False,8100.0,53
+Eurozone,2025_Q1,Geopolitical Conflict,2.18,↓,False,8101.0,63
+Eurozone,2025_Q2,Geopolitical Conflict,1.87,↓,False,8102.0,61
+Eurozone,2025_Q3,Geopolitical Conflict,3.61,↑,False,8103.0,53
+Eurozone,2025_Q4,Geopolitical Conflict,2.53,↓,False,8104.0,51
+Eurozone,2026_Q1,Geopolitical Conflict,3.27,↑,True,8105.0,64
+Eurozone,2026_Q2,Geopolitical Conflict,2.9,↓,True,8106.0,62
+Eurozone,2026_Q3,Geopolitical Conflict,1.37,↓,True,8107.0,54
+Eurozone,2026_Q4,Geopolitical Conflict,2.96,↑,True,8108.0,64
+Eurozone,2027_Q1,Geopolitical Conflict,1.77,↓,True,8109.0,56
+Eurozone,2027_Q2,Geopolitical Conflict,1.31,↓,True,8110.0,47
+Eurozone,2027_Q3,Geopolitical Conflict,1.1,→,True,8111.0,57
+Eurozone,2027_Q4,Geopolitical Conflict,2.09,↑,True,8112.0,46
+Eurozone,2028_Q1,Geopolitical Conflict,1.07,↓,True,8113.0,47
+Eurozone,2028_Q2,Geopolitical Conflict,3.45,↑,True,8114.0,73
+Eurozone,2028_Q3,Geopolitical Conflict,4.12,↑,True,8115.0,51
+Eurozone,2028_Q4,Geopolitical Conflict,2.85,↓,True,8116.0,73
+Eurozone,2022_Q1,Housing Bubble,3.97,→,False,8089.0,70
+Eurozone,2022_Q2,Housing Bubble,1.44,↓,False,8090.0,61
+Eurozone,2022_Q3,Housing Bubble,4.31,↑,False,8091.0,66
+Eurozone,2022_Q4,Housing Bubble,3.26,↓,False,8092.0,71
+Eurozone,2023_Q1,Housing Bubble,1.94,↓,False,8093.0,42
+Eurozone,2023_Q2,Housing Bubble,2.33,↑,False,8094.0,53
+Eurozone,2023_Q3,Housing Bubble,1.14,↓,False,8095.0,44
+Eurozone,2023_Q4,Housing Bubble,2.24,↑,False,8096.0,55
+Eurozone,2024_Q1,Housing Bubble,3.14,↑,False,8097.0,52
+Eurozone,2024_Q2,Housing Bubble,4.36,↑,False,8098.0,68
+Eurozone,2024_Q3,Housing Bubble,4.22,→,False,8099.0,82
+Eurozone,2024_Q4,Housing Bubble,1.11,↓,False,8100.0,53
+Eurozone,2025_Q1,Housing Bubble,3.21,↑,False,8101.0,63
+Eurozone,2025_Q2,Housing Bubble,3.8,↑,False,8102.0,61
+Eurozone,2025_Q3,Housing Bubble,2.1,↓,False,8103.0,53
+Eurozone,2025_Q4,Housing Bubble,4.66,↑,False,8104.0,51
+Eurozone,2026_Q1,Housing Bubble,3.88,↓,True,8105.0,64
+Eurozone,2026_Q2,Housing Bubble,1.62,↓,True,8106.0,62
+Eurozone,2026_Q3,Housing Bubble,3.36,↑,True,8107.0,54
+Eurozone,2026_Q4,Housing Bubble,4.4,↑,True,8108.0,64
+Eurozone,2027_Q1,Housing Bubble,1.48,↓,True,8109.0,56
+Eurozone,2027_Q2,Housing Bubble,1.92,↑,True,8110.0,47
+Eurozone,2027_Q3,Housing Bubble,3.46,↑,True,8111.0,57
+Eurozone,2027_Q4,Housing Bubble,2.92,↓,True,8112.0,46
+Eurozone,2028_Q1,Housing Bubble,1.93,↓,True,8113.0,47
+Eurozone,2028_Q2,Housing Bubble,4.78,↑,True,8114.0,73
+Eurozone,2028_Q3,Housing Bubble,1.88,↓,True,8115.0,51
+Eurozone,2028_Q4,Housing Bubble,4.99,↑,True,8116.0,73
+Eurozone,2022_Q1,Inflation/Rate Shock,3.83,→,False,8089.0,70
+Eurozone,2022_Q2,Inflation/Rate Shock,4.19,↑,False,8090.0,61
+Eurozone,2022_Q3,Inflation/Rate Shock,2.69,↓,False,8091.0,66
+Eurozone,2022_Q4,Inflation/Rate Shock,1.61,↓,False,8092.0,71
+Eurozone,2023_Q1,Inflation/Rate Shock,2.33,↑,False,8093.0,42
+Eurozone,2023_Q2,Inflation/Rate Shock,2.39,→,False,8094.0,53
+Eurozone,2023_Q3,Inflation/Rate Shock,1.88,↓,False,8095.0,44
+Eurozone,2023_Q4,Inflation/Rate Shock,2.4,↑,False,8096.0,55
+Eurozone,2024_Q1,Inflation/Rate Shock,1.41,↓,False,8097.0,52
+Eurozone,2024_Q2,Inflation/Rate Shock,2.02,↑,False,8098.0,68
+Eurozone,2024_Q3,Inflation/Rate Shock,4.85,↑,False,8099.0,82
+Eurozone,2024_Q4,Inflation/Rate Shock,4.57,→,False,8100.0,53
+Eurozone,2025_Q1,Inflation/Rate Shock,4.05,↓,False,8101.0,63
+Eurozone,2025_Q2,Inflation/Rate Shock,2.69,↓,False,8102.0,61
+Eurozone,2025_Q3,Inflation/Rate Shock,1.83,↓,False,8103.0,53
+Eurozone,2025_Q4,Inflation/Rate Shock,1.19,↓,False,8104.0,51
+Eurozone,2026_Q1,Inflation/Rate Shock,3.65,↑,True,8105.0,64
+Eurozone,2026_Q2,Inflation/Rate Shock,2.41,↓,True,8106.0,62
+Eurozone,2026_Q3,Inflation/Rate Shock,1.55,↓,True,8107.0,54
+Eurozone,2026_Q4,Inflation/Rate Shock,4.95,↑,True,8108.0,64
+Eurozone,2027_Q1,Inflation/Rate Shock,2.69,↓,True,8109.0,56
+Eurozone,2027_Q2,Inflation/Rate Shock,2.36,↓,True,8110.0,47
+Eurozone,2027_Q3,Inflation/Rate Shock,1.09,↓,True,8111.0,57
+Eurozone,2027_Q4,Inflation/Rate Shock,1.37,→,True,8112.0,46
+Eurozone,2028_Q1,Inflation/Rate Shock,2.71,↑,True,8113.0,47
+Eurozone,2028_Q2,Inflation/Rate Shock,4.96,↑,True,8114.0,73
+Eurozone,2028_Q3,Inflation/Rate Shock,1.23,↓,True,8115.0,51
+Eurozone,2028_Q4,Inflation/Rate Shock,3.99,↑,True,8116.0,73
+Eurozone,2022_Q1,Market Liquidity,4.11,→,False,8089.0,70
+Eurozone,2022_Q2,Market Liquidity,1.6,↓,False,8090.0,61
+Eurozone,2022_Q3,Market Liquidity,2.15,↑,False,8091.0,66
+Eurozone,2022_Q4,Market Liquidity,3.31,↑,False,8092.0,71
+Eurozone,2023_Q1,Market Liquidity,2.25,↓,False,8093.0,42
+Eurozone,2023_Q2,Market Liquidity,2.39,→,False,8094.0,53
+Eurozone,2023_Q3,Market Liquidity,1.85,↓,False,8095.0,44
+Eurozone,2023_Q4,Market Liquidity,2.87,↑,False,8096.0,55
+Eurozone,2024_Q1,Market Liquidity,2.34,↓,False,8097.0,52
+Eurozone,2024_Q2,Market Liquidity,1.78,↓,False,8098.0,68
+Eurozone,2024_Q3,Market Liquidity,4.78,↑,False,8099.0,82
+Eurozone,2024_Q4,Market Liquidity,4.27,↓,False,8100.0,53
+Eurozone,2025_Q1,Market Liquidity,1.56,↓,False,8101.0,63
+Eurozone,2025_Q2,Market Liquidity,1.53,→,False,8102.0,61
+Eurozone,2025_Q3,Market Liquidity,1.04,↓,False,8103.0,53
+Eurozone,2025_Q4,Market Liquidity,1.67,↑,False,8104.0,51
+Eurozone,2026_Q1,Market Liquidity,4.75,↑,True,8105.0,64
+Eurozone,2026_Q2,Market Liquidity,2.65,↓,True,8106.0,62
+Eurozone,2026_Q3,Market Liquidity,4.8,↑,True,8107.0,54
+Eurozone,2026_Q4,Market Liquidity,4.78,→,True,8108.0,64
+Eurozone,2027_Q1,Market Liquidity,4.18,↓,True,8109.0,56
+Eurozone,2027_Q2,Market Liquidity,3.9,→,True,8110.0,47
+Eurozone,2027_Q3,Market Liquidity,4.5,↑,True,8111.0,57
+Eurozone,2027_Q4,Market Liquidity,2.35,↓,True,8112.0,46
+Eurozone,2028_Q1,Market Liquidity,2.54,→,True,8113.0,47
+Eurozone,2028_Q2,Market Liquidity,1.93,↓,True,8114.0,73
+Eurozone,2028_Q3,Market Liquidity,4.88,↑,True,8115.0,51
+Eurozone,2028_Q4,Market Liquidity,1.14,↓,True,8116.0,73
+Eurozone,2022_Q1,Sovereign Debt,2.98,→,False,8089.0,70
+Eurozone,2022_Q2,Sovereign Debt,4.29,↑,False,8090.0,61
+Eurozone,2022_Q3,Sovereign Debt,3.4,↓,False,8091.0,66
+Eurozone,2022_Q4,Sovereign Debt,4.73,↑,False,8092.0,71
+Eurozone,2023_Q1,Sovereign Debt,1.49,↓,False,8093.0,42
+Eurozone,2023_Q2,Sovereign Debt,1.02,↓,False,8094.0,53
+Eurozone,2023_Q3,Sovereign Debt,1.66,↑,False,8095.0,44
+Eurozone,2023_Q4,Sovereign Debt,2.2,↑,False,8096.0,55
+Eurozone,2024_Q1,Sovereign Debt,3.11,↑,False,8097.0,52
+Eurozone,2024_Q2,Sovereign Debt,4.92,↑,False,8098.0,68
+Eurozone,2024_Q3,Sovereign Debt,3.88,↓,False,8099.0,82
+Eurozone,2024_Q4,Sovereign Debt,1.83,↓,False,8100.0,53
+Eurozone,2025_Q1,Sovereign Debt,2.64,↑,False,8101.0,63
+Eurozone,2025_Q2,Sovereign Debt,3.97,↑,False,8102.0,61
+Eurozone,2025_Q3,Sovereign Debt,3.31,↓,False,8103.0,53
+Eurozone,2025_Q4,Sovereign Debt,1.7,↓,False,8104.0,51
+Eurozone,2026_Q1,Sovereign Debt,2.42,↑,True,8105.0,64
+Eurozone,2026_Q2,Sovereign Debt,4.82,↑,True,8106.0,62
+Eurozone,2026_Q3,Sovereign Debt,2.09,↓,True,8107.0,54
+Eurozone,2026_Q4,Sovereign Debt,3.77,↑,True,8108.0,64
+Eurozone,2027_Q1,Sovereign Debt,2.25,↓,True,8109.0,56
+Eurozone,2027_Q2,Sovereign Debt,3.39,↑,True,8110.0,47
+Eurozone,2027_Q3,Sovereign Debt,4.54,↑,True,8111.0,57
+Eurozone,2027_Q4,Sovereign Debt,1.15,↓,True,8112.0,46
+Eurozone,2028_Q1,Sovereign Debt,2.19,↑,True,8113.0,47
+Eurozone,2028_Q2,Sovereign Debt,4.52,↑,True,8114.0,73
+Eurozone,2028_Q3,Sovereign Debt,1.71,↓,True,8115.0,51
+Eurozone,2028_Q4,Sovereign Debt,2.96,↑,True,8116.0,73
+Global,2022_Q1,Bank Stability,3.93,→,False,8089.0,59
+Global,2022_Q2,Bank Stability,1.03,↓,False,8090.0,49
+Global,2022_Q3,Bank Stability,1.68,↑,False,8091.0,56
+Global,2022_Q4,Bank Stability,4.02,↑,False,8092.0,57
+Global,2023_Q1,Bank Stability,4.38,↑,False,8093.0,77
+Global,2023_Q2,Bank Stability,2.17,↓,False,8094.0,54
+Global,2023_Q3,Bank Stability,2.3,→,False,8095.0,54
+Global,2023_Q4,Bank Stability,2.71,↑,False,8096.0,46
+Global,2024_Q1,Bank Stability,2.16,↓,False,8097.0,58
+Global,2024_Q2,Bank Stability,2.71,↑,False,8098.0,50
+Global,2024_Q3,Bank Stability,2.02,↓,False,8099.0,54
+Global,2024_Q4,Bank Stability,3.12,↑,False,8100.0,60
+Global,2025_Q1,Bank Stability,1.6,↓,False,8101.0,62
+Global,2025_Q2,Bank Stability,2.36,↑,False,8102.0,63
+Global,2025_Q3,Bank Stability,2.12,→,False,8103.0,69
+Global,2025_Q4,Bank Stability,2.22,→,False,8104.0,59
+Global,2026_Q1,Bank Stability,3.36,↑,True,8105.0,67
+Global,2026_Q2,Bank Stability,2.88,↓,True,8106.0,64
+Global,2026_Q3,Bank Stability,2.94,→,True,8107.0,56
+Global,2026_Q4,Bank Stability,3.79,↑,True,8108.0,72
+Global,2027_Q1,Bank Stability,2.35,↓,True,8109.0,56
+Global,2027_Q2,Bank Stability,2.44,→,True,8110.0,53
+Global,2027_Q3,Bank Stability,4.18,↑,True,8111.0,56
+Global,2027_Q4,Bank Stability,1.38,↓,True,8112.0,54
+Global,2028_Q1,Bank Stability,1.37,→,True,8113.0,42
+Global,2028_Q2,Bank Stability,4.55,↑,True,8114.0,64
+Global,2028_Q3,Bank Stability,4.77,→,True,8115.0,68
+Global,2028_Q4,Bank Stability,4.38,↓,True,8116.0,53
+Global,2022_Q1,China Slowdown,4.46,→,False,8089.0,59
+Global,2022_Q2,China Slowdown,4.9,↑,False,8090.0,49
+Global,2022_Q3,China Slowdown,2.22,↓,False,8091.0,56
+Global,2022_Q4,China Slowdown,4.37,↑,False,8092.0,57
+Global,2023_Q1,China Slowdown,3.43,↓,False,8093.0,77
+Global,2023_Q2,China Slowdown,3.42,→,False,8094.0,54
+Global,2023_Q3,China Slowdown,1.48,↓,False,8095.0,54
+Global,2023_Q4,China Slowdown,2.26,↑,False,8096.0,46
+Global,2024_Q1,China Slowdown,4.49,↑,False,8097.0,58
+Global,2024_Q2,China Slowdown,2.67,↓,False,8098.0,50
+Global,2024_Q3,China Slowdown,4.99,↑,False,8099.0,54
+Global,2024_Q4,China Slowdown,2.48,↓,False,8100.0,60
+Global,2025_Q1,China Slowdown,1.88,↓,False,8101.0,62
+Global,2025_Q2,China Slowdown,3.64,↑,False,8102.0,63
+Global,2025_Q3,China Slowdown,4.55,↑,False,8103.0,69
+Global,2025_Q4,China Slowdown,1.07,↓,False,8104.0,59
+Global,2026_Q1,China Slowdown,2.4,↑,True,8105.0,67
+Global,2026_Q2,China Slowdown,2.32,→,True,8106.0,64
+Global,2026_Q3,China Slowdown,1.28,↓,True,8107.0,56
+Global,2026_Q4,China Slowdown,4.24,↑,True,8108.0,72
+Global,2027_Q1,China Slowdown,2.86,↓,True,8109.0,56
+Global,2027_Q2,China Slowdown,3.49,↑,True,8110.0,53
+Global,2027_Q3,China Slowdown,4.85,↑,True,8111.0,56
+Global,2027_Q4,China Slowdown,3.63,↓,True,8112.0,54
+Global,2028_Q1,China Slowdown,1.07,↓,True,8113.0,42
+Global,2028_Q2,China Slowdown,3.16,↑,True,8114.0,64
+Global,2028_Q3,China Slowdown,1.28,↓,True,8115.0,68
+Global,2028_Q4,China Slowdown,3.79,↑,True,8116.0,53
+Global,2022_Q1,Emerging Market Debt,1.62,→,False,8089.0,59
+Global,2022_Q2,Emerging Market Debt,3.1,↑,False,8090.0,49
+Global,2022_Q3,Emerging Market Debt,4.8,↑,False,8091.0,56
+Global,2022_Q4,Emerging Market Debt,1.83,↓,False,8092.0,57
+Global,2023_Q1,Emerging Market Debt,3.16,↑,False,8093.0,77
+Global,2023_Q2,Emerging Market Debt,1.8,↓,False,8094.0,54
+Global,2023_Q3,Emerging Market Debt,3.55,↑,False,8095.0,54
+Global,2023_Q4,Emerging Market Debt,1.43,↓,False,8096.0,46
+Global,2024_Q1,Emerging Market Debt,4.72,↑,False,8097.0,58
+Global,2024_Q2,Emerging Market Debt,4.44,→,False,8098.0,50
+Global,2024_Q3,Emerging Market Debt,3.79,↓,False,8099.0,54
+Global,2024_Q4,Emerging Market Debt,3.21,↓,False,8100.0,60
+Global,2025_Q1,Emerging Market Debt,3.78,↑,False,8101.0,62
+Global,2025_Q2,Emerging Market Debt,4.7,↑,False,8102.0,63
+Global,2025_Q3,Emerging Market Debt,4.39,↓,False,8103.0,69
+Global,2025_Q4,Emerging Market Debt,2.79,↓,False,8104.0,59
+Global,2026_Q1,Emerging Market Debt,2.95,→,True,8105.0,67
+Global,2026_Q2,Emerging Market Debt,4.53,↑,True,8106.0,64
+Global,2026_Q3,Emerging Market Debt,2.58,↓,True,8107.0,56
+Global,2026_Q4,Emerging Market Debt,2.44,→,True,8108.0,72
+Global,2027_Q1,Emerging Market Debt,1.38,↓,True,8109.0,56
+Global,2027_Q2,Emerging Market Debt,3.09,↑,True,8110.0,53
+Global,2027_Q3,Emerging Market Debt,2.76,↓,True,8111.0,56
+Global,2027_Q4,Emerging Market Debt,4.74,↑,True,8112.0,54
+Global,2028_Q1,Emerging Market Debt,2.25,↓,True,8113.0,42
+Global,2028_Q2,Emerging Market Debt,1.06,↓,True,8114.0,64
+Global,2028_Q3,Emerging Market Debt,4.84,↑,True,8115.0,68
+Global,2028_Q4,Emerging Market Debt,4.26,↓,True,8116.0,53
+Global,2022_Q1,Geopolitical Conflict,3.39,→,False,8089.0,59
+Global,2022_Q2,Geopolitical Conflict,1.09,↓,False,8090.0,49
+Global,2022_Q3,Geopolitical Conflict,1.26,→,False,8091.0,56
+Global,2022_Q4,Geopolitical Conflict,2.7,↑,False,8092.0,57
+Global,2023_Q1,Geopolitical Conflict,3.99,↑,False,8093.0,77
+Global,2023_Q2,Geopolitical Conflict,1.06,↓,False,8094.0,54
+Global,2023_Q3,Geopolitical Conflict,3.92,↑,False,8095.0,54
+Global,2023_Q4,Geopolitical Conflict,1.1,↓,False,8096.0,46
+Global,2024_Q1,Geopolitical Conflict,1.64,↑,False,8097.0,58
+Global,2024_Q2,Geopolitical Conflict,4.27,↑,False,8098.0,50
+Global,2024_Q3,Geopolitical Conflict,1.99,↓,False,8099.0,54
+Global,2024_Q4,Geopolitical Conflict,2.79,↑,False,8100.0,60
+Global,2025_Q1,Geopolitical Conflict,3.03,→,False,8101.0,62
+Global,2025_Q2,Geopolitical Conflict,1.45,↓,False,8102.0,63
+Global,2025_Q3,Geopolitical Conflict,3.8,↑,False,8103.0,69
+Global,2025_Q4,Geopolitical Conflict,2.94,↓,False,8104.0,59
+Global,2026_Q1,Geopolitical Conflict,4.92,↑,True,8105.0,67
+Global,2026_Q2,Geopolitical Conflict,2.12,↓,True,8106.0,64
+Global,2026_Q3,Geopolitical Conflict,2.49,↑,True,8107.0,56
+Global,2026_Q4,Geopolitical Conflict,3.81,↑,True,8108.0,72
+Global,2027_Q1,Geopolitical Conflict,2.5,↓,True,8109.0,56
+Global,2027_Q2,Geopolitical Conflict,1.51,↓,True,8110.0,53
+Global,2027_Q3,Geopolitical Conflict,2.08,↑,True,8111.0,56
+Global,2027_Q4,Geopolitical Conflict,1.73,↓,True,8112.0,54
+Global,2028_Q1,Geopolitical Conflict,1.38,↓,True,8113.0,42
+Global,2028_Q2,Geopolitical Conflict,2.04,↑,True,8114.0,64
+Global,2028_Q3,Geopolitical Conflict,2.54,↑,True,8115.0,68
+Global,2028_Q4,Geopolitical Conflict,1.09,↓,True,8116.0,53
+Global,2022_Q1,Housing Bubble,4.8,→,False,8089.0,59
+Global,2022_Q2,Housing Bubble,3.45,↓,False,8090.0,49
+Global,2022_Q3,Housing Bubble,3.43,→,False,8091.0,56
+Global,2022_Q4,Housing Bubble,1.73,↓,False,8092.0,57
+Global,2023_Q1,Housing Bubble,4.84,↑,False,8093.0,77
+Global,2023_Q2,Housing Bubble,2.58,↓,False,8094.0,54
+Global,2023_Q3,Housing Bubble,2.24,↓,False,8095.0,54
+Global,2023_Q4,Housing Bubble,3.09,↑,False,8096.0,46
+Global,2024_Q1,Housing Bubble,1.31,↓,False,8097.0,58
+Global,2024_Q2,Housing Bubble,1.91,↑,False,8098.0,50
+Global,2024_Q3,Housing Bubble,1.26,↓,False,8099.0,54
+Global,2024_Q4,Housing Bubble,3.72,↑,False,8100.0,60
+Global,2025_Q1,Housing Bubble,4.19,↑,False,8101.0,62
+Global,2025_Q2,Housing Bubble,1.55,↓,False,8102.0,63
+Global,2025_Q3,Housing Bubble,1.75,→,False,8103.0,69
+Global,2025_Q4,Housing Bubble,2.14,↑,False,8104.0,59
+Global,2026_Q1,Housing Bubble,2.0,→,True,8105.0,67
+Global,2026_Q2,Housing Bubble,4.98,↑,True,8106.0,64
+Global,2026_Q3,Housing Bubble,2.07,↓,True,8107.0,56
+Global,2026_Q4,Housing Bubble,3.96,↑,True,8108.0,72
+Global,2027_Q1,Housing Bubble,4.56,↑,True,8109.0,56
+Global,2027_Q2,Housing Bubble,4.29,→,True,8110.0,53
+Global,2027_Q3,Housing Bubble,2.29,↓,True,8111.0,56
+Global,2027_Q4,Housing Bubble,1.96,↓,True,8112.0,54
+Global,2028_Q1,Housing Bubble,2.37,↑,True,8113.0,42
+Global,2028_Q2,Housing Bubble,4.8,↑,True,8114.0,64
+Global,2028_Q3,Housing Bubble,3.18,↓,True,8115.0,68
+Global,2028_Q4,Housing Bubble,2.28,↓,True,8116.0,53
+Global,2022_Q1,Inflation/Rate Shock,1.62,→,False,8089.0,59
+Global,2022_Q2,Inflation/Rate Shock,2.6,↑,False,8090.0,49
+Global,2022_Q3,Inflation/Rate Shock,4.86,↑,False,8091.0,56
+Global,2022_Q4,Inflation/Rate Shock,3.27,↓,False,8092.0,57
+Global,2023_Q1,Inflation/Rate Shock,3.35,→,False,8093.0,77
+Global,2023_Q2,Inflation/Rate Shock,3.85,↑,False,8094.0,54
+Global,2023_Q3,Inflation/Rate Shock,4.55,↑,False,8095.0,54
+Global,2023_Q4,Inflation/Rate Shock,1.13,↓,False,8096.0,46
+Global,2024_Q1,Inflation/Rate Shock,4.23,↑,False,8097.0,58
+Global,2024_Q2,Inflation/Rate Shock,1.03,↓,False,8098.0,50
+Global,2024_Q3,Inflation/Rate Shock,3.85,↑,False,8099.0,54
+Global,2024_Q4,Inflation/Rate Shock,3.37,↓,False,8100.0,60
+Global,2025_Q1,Inflation/Rate Shock,4.43,↑,False,8101.0,62
+Global,2025_Q2,Inflation/Rate Shock,4.51,→,False,8102.0,63
+Global,2025_Q3,Inflation/Rate Shock,4.43,→,False,8103.0,69
+Global,2025_Q4,Inflation/Rate Shock,4.98,↑,False,8104.0,59
+Global,2026_Q1,Inflation/Rate Shock,4.62,↓,True,8105.0,67
+Global,2026_Q2,Inflation/Rate Shock,3.99,↓,True,8106.0,64
+Global,2026_Q3,Inflation/Rate Shock,4.38,↑,True,8107.0,56
+Global,2026_Q4,Inflation/Rate Shock,2.17,↓,True,8108.0,72
+Global,2027_Q1,Inflation/Rate Shock,3.31,↑,True,8109.0,56
+Global,2027_Q2,Inflation/Rate Shock,4.08,↑,True,8110.0,53
+Global,2027_Q3,Inflation/Rate Shock,1.31,↓,True,8111.0,56
+Global,2027_Q4,Inflation/Rate Shock,3.55,↑,True,8112.0,54
+Global,2028_Q1,Inflation/Rate Shock,4.92,↑,True,8113.0,42
+Global,2028_Q2,Inflation/Rate Shock,4.73,→,True,8114.0,64
+Global,2028_Q3,Inflation/Rate Shock,4.62,→,True,8115.0,68
+Global,2028_Q4,Inflation/Rate Shock,2.13,↓,True,8116.0,53
+Global,2022_Q1,Market Liquidity,1.23,→,False,8089.0,59
+Global,2022_Q2,Market Liquidity,1.19,→,False,8090.0,49
+Global,2022_Q3,Market Liquidity,4.23,↑,False,8091.0,56
+Global,2022_Q4,Market Liquidity,1.13,↓,False,8092.0,57
+Global,2023_Q1,Market Liquidity,4.86,↑,False,8093.0,77
+Global,2023_Q2,Market Liquidity,4.16,↓,False,8094.0,54
+Global,2023_Q3,Market Liquidity,2.89,↓,False,8095.0,54
+Global,2023_Q4,Market Liquidity,3.55,↑,False,8096.0,46
+Global,2024_Q1,Market Liquidity,3.53,→,False,8097.0,58
+Global,2024_Q2,Market Liquidity,3.04,↓,False,8098.0,50
+Global,2024_Q3,Market Liquidity,1.59,↓,False,8099.0,54
+Global,2024_Q4,Market Liquidity,1.32,→,False,8100.0,60
+Global,2025_Q1,Market Liquidity,2.3,↑,False,8101.0,62
+Global,2025_Q2,Market Liquidity,2.03,→,False,8102.0,63
+Global,2025_Q3,Market Liquidity,2.62,↑,False,8103.0,69
+Global,2025_Q4,Market Liquidity,1.7,↓,False,8104.0,59
+Global,2026_Q1,Market Liquidity,2.74,↑,True,8105.0,67
+Global,2026_Q2,Market Liquidity,4.81,↑,True,8106.0,64
+Global,2026_Q3,Market Liquidity,4.72,→,True,8107.0,56
+Global,2026_Q4,Market Liquidity,4.24,↓,True,8108.0,72
+Global,2027_Q1,Market Liquidity,1.14,↓,True,8109.0,56
+Global,2027_Q2,Market Liquidity,1.86,↑,True,8110.0,53
+Global,2027_Q3,Market Liquidity,1.1,↓,True,8111.0,56
+Global,2027_Q4,Market Liquidity,3.07,↑,True,8112.0,54
+Global,2028_Q1,Market Liquidity,1.7,↓,True,8113.0,42
+Global,2028_Q2,Market Liquidity,3.0,↑,True,8114.0,64
+Global,2028_Q3,Market Liquidity,1.78,↓,True,8115.0,68
+Global,2028_Q4,Market Liquidity,1.47,↓,True,8116.0,53
+Global,2022_Q1,Sovereign Debt,2.5,→,False,8089.0,59
+Global,2022_Q2,Sovereign Debt,3.47,↑,False,8090.0,49
+Global,2022_Q3,Sovereign Debt,1.19,↓,False,8091.0,56
+Global,2022_Q4,Sovereign Debt,2.56,↑,False,8092.0,57
+Global,2023_Q1,Sovereign Debt,3.08,↑,False,8093.0,77
+Global,2023_Q2,Sovereign Debt,2.69,↓,False,8094.0,54
+Global,2023_Q3,Sovereign Debt,1.25,↓,False,8095.0,54
+Global,2023_Q4,Sovereign Debt,2.98,↑,False,8096.0,46
+Global,2024_Q1,Sovereign Debt,1.92,↓,False,8097.0,58
+Global,2024_Q2,Sovereign Debt,1.44,↓,False,8098.0,50
+Global,2024_Q3,Sovereign Debt,2.62,↑,False,8099.0,54
+Global,2024_Q4,Sovereign Debt,3.54,↑,False,8100.0,60
+Global,2025_Q1,Sovereign Debt,4.27,↑,False,8101.0,62
+Global,2025_Q2,Sovereign Debt,4.75,↑,False,8102.0,63
+Global,2025_Q3,Sovereign Debt,4.53,→,False,8103.0,69
+Global,2025_Q4,Sovereign Debt,4.89,↑,False,8104.0,59
+Global,2026_Q1,Sovereign Debt,3.55,↓,True,8105.0,67
+Global,2026_Q2,Sovereign Debt,1.17,↓,True,8106.0,64
+Global,2026_Q3,Sovereign Debt,1.76,↑,True,8107.0,56
+Global,2026_Q4,Sovereign Debt,4.51,↑,True,8108.0,72
+Global,2027_Q1,Sovereign Debt,4.18,↓,True,8109.0,56
+Global,2027_Q2,Sovereign Debt,1.15,↓,True,8110.0,53
+Global,2027_Q3,Sovereign Debt,3.07,↑,True,8111.0,56
+Global,2027_Q4,Sovereign Debt,2.77,→,True,8112.0,54
+Global,2028_Q1,Sovereign Debt,1.48,↓,True,8113.0,42
+Global,2028_Q2,Sovereign Debt,1.19,→,True,8114.0,64
+Global,2028_Q3,Sovereign Debt,2.83,↑,True,8115.0,68
+Global,2028_Q4,Sovereign Debt,1.28,↓,True,8116.0,53
+USA,2022_Q1,Bank Stability,1.14,→,False,8089.0,51
+USA,2022_Q2,Bank Stability,1.25,→,False,8090.0,71
+USA,2022_Q3,Bank Stability,4.35,↑,False,8091.0,75
+USA,2022_Q4,Bank Stability,3.97,↓,False,8092.0,58
+USA,2023_Q1,Bank Stability,4.12,→,False,8093.0,68
+USA,2023_Q2,Bank Stability,2.89,↓,False,8094.0,67
+USA,2023_Q3,Bank Stability,2.01,↓,False,8095.0,50
+USA,2023_Q4,Bank Stability,1.53,↓,False,8096.0,61
+USA,2024_Q1,Bank Stability,1.92,↑,False,8097.0,55
+USA,2024_Q2,Bank Stability,3.5,↑,False,8098.0,69
+USA,2024_Q3,Bank Stability,3.61,→,False,8099.0,56
+USA,2024_Q4,Bank Stability,4.44,↑,False,8100.0,57
+USA,2025_Q1,Bank Stability,1.35,↓,False,8101.0,37
+USA,2025_Q2,Bank Stability,3.55,↑,False,8102.0,54
+USA,2025_Q3,Bank Stability,3.39,→,False,8103.0,57
+USA,2025_Q4,Bank Stability,3.98,↑,False,8104.0,52
+USA,2026_Q1,Bank Stability,1.12,↓,True,8105.0,57
+USA,2026_Q2,Bank Stability,3.39,↑,True,8106.0,67
+USA,2026_Q3,Bank Stability,1.72,↓,True,8107.0,61
+USA,2026_Q4,Bank Stability,2.25,↑,True,8108.0,51
+USA,2027_Q1,Bank Stability,2.35,→,True,8109.0,55
+USA,2027_Q2,Bank Stability,3.34,↑,True,8110.0,58
+USA,2027_Q3,Bank Stability,1.41,↓,True,8111.0,48
+USA,2027_Q4,Bank Stability,2.37,↑,True,8112.0,48
+USA,2028_Q1,Bank Stability,3.65,↑,True,8113.0,63
+USA,2028_Q2,Bank Stability,3.67,→,True,8114.0,65
+USA,2028_Q3,Bank Stability,2.62,↓,True,8115.0,72
+USA,2028_Q4,Bank Stability,3.44,↑,True,8116.0,61
+USA,2022_Q1,China Slowdown,2.01,→,False,8089.0,51
+USA,2022_Q2,China Slowdown,3.65,↑,False,8090.0,71
+USA,2022_Q3,China Slowdown,1.63,↓,False,8091.0,75
+USA,2022_Q4,China Slowdown,1.03,↓,False,8092.0,58
+USA,2023_Q1,China Slowdown,2.37,↑,False,8093.0,68
+USA,2023_Q2,China Slowdown,3.7,↑,False,8094.0,67
+USA,2023_Q3,China Slowdown,1.41,↓,False,8095.0,50
+USA,2023_Q4,China Slowdown,4.64,↑,False,8096.0,61
+USA,2024_Q1,China Slowdown,4.46,→,False,8097.0,55
+USA,2024_Q2,China Slowdown,4.19,→,False,8098.0,69
+USA,2024_Q3,China Slowdown,1.6,↓,False,8099.0,56
+USA,2024_Q4,China Slowdown,1.97,↑,False,8100.0,57
+USA,2025_Q1,China Slowdown,1.53,↓,False,8101.0,37
+USA,2025_Q2,China Slowdown,3.17,↑,False,8102.0,54
+USA,2025_Q3,China Slowdown,2.75,↓,False,8103.0,57
+USA,2025_Q4,China Slowdown,1.08,↓,False,8104.0,52
+USA,2026_Q1,China Slowdown,3.97,↑,True,8105.0,57
+USA,2026_Q2,China Slowdown,2.44,↓,True,8106.0,67
+USA,2026_Q3,China Slowdown,2.97,↑,True,8107.0,61
+USA,2026_Q4,China Slowdown,3.39,↑,True,8108.0,51
+USA,2027_Q1,China Slowdown,3.83,↑,True,8109.0,55
+USA,2027_Q2,China Slowdown,1.23,↓,True,8110.0,58
+USA,2027_Q3,China Slowdown,3.74,↑,True,8111.0,48
+USA,2027_Q4,China Slowdown,4.76,↑,True,8112.0,48
+USA,2028_Q1,China Slowdown,4.32,↓,True,8113.0,63
+USA,2028_Q2,China Slowdown,2.27,↓,True,8114.0,65
+USA,2028_Q3,China Slowdown,4.19,↑,True,8115.0,72
+USA,2028_Q4,China Slowdown,3.18,↓,True,8116.0,61
+USA,2022_Q1,Emerging Market Debt,4.73,→,False,8089.0,51
+USA,2022_Q2,Emerging Market Debt,3.06,↓,False,8090.0,71
+USA,2022_Q3,Emerging Market Debt,3.72,↑,False,8091.0,75
+USA,2022_Q4,Emerging Market Debt,4.27,↑,False,8092.0,58
+USA,2023_Q1,Emerging Market Debt,4.04,→,False,8093.0,68
+USA,2023_Q2,Emerging Market Debt,1.3,↓,False,8094.0,67
+USA,2023_Q3,Emerging Market Debt,1.64,↑,False,8095.0,50
+USA,2023_Q4,Emerging Market Debt,4.85,↑,False,8096.0,61
+USA,2024_Q1,Emerging Market Debt,1.12,↓,False,8097.0,55
+USA,2024_Q2,Emerging Market Debt,1.13,→,False,8098.0,69
+USA,2024_Q3,Emerging Market Debt,3.36,↑,False,8099.0,56
+USA,2024_Q4,Emerging Market Debt,1.16,↓,False,8100.0,57
+USA,2025_Q1,Emerging Market Debt,1.13,→,False,8101.0,37
+USA,2025_Q2,Emerging Market Debt,1.13,→,False,8102.0,54
+USA,2025_Q3,Emerging Market Debt,2.92,↑,False,8103.0,57
+USA,2025_Q4,Emerging Market Debt,2.73,→,False,8104.0,52
+USA,2026_Q1,Emerging Market Debt,2.85,→,True,8105.0,57
+USA,2026_Q2,Emerging Market Debt,3.62,↑,True,8106.0,67
+USA,2026_Q3,Emerging Market Debt,4.89,↑,True,8107.0,61
+USA,2026_Q4,Emerging Market Debt,4.43,↓,True,8108.0,51
+USA,2027_Q1,Emerging Market Debt,2.72,↓,True,8109.0,55
+USA,2027_Q2,Emerging Market Debt,1.82,↓,True,8110.0,58
+USA,2027_Q3,Emerging Market Debt,3.75,↑,True,8111.0,48
+USA,2027_Q4,Emerging Market Debt,1.5,↓,True,8112.0,48
+USA,2028_Q1,Emerging Market Debt,2.5,↑,True,8113.0,63
+USA,2028_Q2,Emerging Market Debt,2.39,→,True,8114.0,65
+USA,2028_Q3,Emerging Market Debt,3.67,↑,True,8115.0,72
+USA,2028_Q4,Emerging Market Debt,2.52,↓,True,8116.0,61
+USA,2022_Q1,Geopolitical Conflict,2.32,→,False,8089.0,51
+USA,2022_Q2,Geopolitical Conflict,4.53,↑,False,8090.0,71
+USA,2022_Q3,Geopolitical Conflict,3.79,↓,False,8091.0,75
+USA,2022_Q4,Geopolitical Conflict,1.64,↓,False,8092.0,58
+USA,2023_Q1,Geopolitical Conflict,1.43,→,False,8093.0,68
+USA,2023_Q2,Geopolitical Conflict,1.23,→,False,8094.0,67
+USA,2023_Q3,Geopolitical Conflict,1.0,→,False,8095.0,50
+USA,2023_Q4,Geopolitical Conflict,4.47,↑,False,8096.0,61
+USA,2024_Q1,Geopolitical Conflict,1.85,↓,False,8097.0,55
+USA,2024_Q2,Geopolitical Conflict,1.52,↓,False,8098.0,69
+USA,2024_Q3,Geopolitical Conflict,2.3,↑,False,8099.0,56
+USA,2024_Q4,Geopolitical Conflict,4.12,↑,False,8100.0,57
+USA,2025_Q1,Geopolitical Conflict,2.4,↓,False,8101.0,37
+USA,2025_Q2,Geopolitical Conflict,3.83,↑,False,8102.0,54
+USA,2025_Q3,Geopolitical Conflict,4.14,↑,False,8103.0,57
+USA,2025_Q4,Geopolitical Conflict,4.49,↑,False,8104.0,52
+USA,2026_Q1,Geopolitical Conflict,2.03,↓,True,8105.0,57
+USA,2026_Q2,Geopolitical Conflict,4.17,↑,True,8106.0,67
+USA,2026_Q3,Geopolitical Conflict,1.95,↓,True,8107.0,61
+USA,2026_Q4,Geopolitical Conflict,2.6,↑,True,8108.0,51
+USA,2027_Q1,Geopolitical Conflict,4.32,↑,True,8109.0,55
+USA,2027_Q2,Geopolitical Conflict,4.47,→,True,8110.0,58
+USA,2027_Q3,Geopolitical Conflict,3.34,↓,True,8111.0,48
+USA,2027_Q4,Geopolitical Conflict,3.13,→,True,8112.0,48
+USA,2028_Q1,Geopolitical Conflict,4.91,↑,True,8113.0,63
+USA,2028_Q2,Geopolitical Conflict,3.31,↓,True,8114.0,65
+USA,2028_Q3,Geopolitical Conflict,2.31,↓,True,8115.0,72
+USA,2028_Q4,Geopolitical Conflict,3.25,↑,True,8116.0,61
+USA,2022_Q1,Housing Bubble,4.41,→,False,8089.0,51
+USA,2022_Q2,Housing Bubble,4.97,↑,False,8090.0,71
+USA,2022_Q3,Housing Bubble,3.83,↓,False,8091.0,75
+USA,2022_Q4,Housing Bubble,2.34,↓,False,8092.0,58
+USA,2023_Q1,Housing Bubble,3.16,↑,False,8093.0,68
+USA,2023_Q2,Housing Bubble,3.83,↑,False,8094.0,67
+USA,2023_Q3,Housing Bubble,4.28,↑,False,8095.0,50
+USA,2023_Q4,Housing Bubble,1.92,↓,False,8096.0,61
+USA,2024_Q1,Housing Bubble,4.58,↑,False,8097.0,55
+USA,2024_Q2,Housing Bubble,4.04,↓,False,8098.0,69
+USA,2024_Q3,Housing Bubble,1.64,↓,False,8099.0,56
+USA,2024_Q4,Housing Bubble,3.78,↑,False,8100.0,57
+USA,2025_Q1,Housing Bubble,3.07,↓,False,8101.0,37
+USA,2025_Q2,Housing Bubble,1.42,↓,False,8102.0,54
+USA,2025_Q3,Housing Bubble,3.21,↑,False,8103.0,57
+USA,2025_Q4,Housing Bubble,2.88,↓,False,8104.0,52
+USA,2026_Q1,Housing Bubble,1.29,↓,True,8105.0,57
+USA,2026_Q2,Housing Bubble,3.42,↑,True,8106.0,67
+USA,2026_Q3,Housing Bubble,4.64,↑,True,8107.0,61
+USA,2026_Q4,Housing Bubble,3.61,↓,True,8108.0,51
+USA,2027_Q1,Housing Bubble,3.08,↓,True,8109.0,55
+USA,2027_Q2,Housing Bubble,4.22,↑,True,8110.0,58
+USA,2027_Q3,Housing Bubble,1.35,↓,True,8111.0,48
+USA,2027_Q4,Housing Bubble,3.09,↑,True,8112.0,48
+USA,2028_Q1,Housing Bubble,2.02,↓,True,8113.0,63
+USA,2028_Q2,Housing Bubble,4.31,↑,True,8114.0,65
+USA,2028_Q3,Housing Bubble,4.51,→,True,8115.0,72
+USA,2028_Q4,Housing Bubble,3.52,↓,True,8116.0,61
+USA,2022_Q1,Inflation/Rate Shock,3.94,→,False,8089.0,51
+USA,2022_Q2,Inflation/Rate Shock,4.63,↑,False,8090.0,71
+USA,2022_Q3,Inflation/Rate Shock,3.47,↓,False,8091.0,75
+USA,2022_Q4,Inflation/Rate Shock,4.33,↑,False,8092.0,58
+USA,2023_Q1,Inflation/Rate Shock,3.17,↓,False,8093.0,68
+USA,2023_Q2,Inflation/Rate Shock,4.41,↑,False,8094.0,67
+USA,2023_Q3,Inflation/Rate Shock,2.87,↓,False,8095.0,50
+USA,2023_Q4,Inflation/Rate Shock,1.13,↓,False,8096.0,61
+USA,2024_Q1,Inflation/Rate Shock,3.61,↑,False,8097.0,55
+USA,2024_Q2,Inflation/Rate Shock,4.68,↑,False,8098.0,69
+USA,2024_Q3,Inflation/Rate Shock,2.73,↓,False,8099.0,56
+USA,2024_Q4,Inflation/Rate Shock,2.92,→,False,8100.0,57
+USA,2025_Q1,Inflation/Rate Shock,1.31,↓,False,8101.0,37
+USA,2025_Q2,Inflation/Rate Shock,4.74,↑,False,8102.0,54
+USA,2025_Q3,Inflation/Rate Shock,1.16,↓,False,8103.0,57
+USA,2025_Q4,Inflation/Rate Shock,1.17,→,False,8104.0,52
+USA,2026_Q1,Inflation/Rate Shock,4.47,↑,True,8105.0,57
+USA,2026_Q2,Inflation/Rate Shock,4.97,↑,True,8106.0,67
+USA,2026_Q3,Inflation/Rate Shock,1.72,↓,True,8107.0,61
+USA,2026_Q4,Inflation/Rate Shock,1.04,↓,True,8108.0,51
+USA,2027_Q1,Inflation/Rate Shock,1.99,↑,True,8109.0,55
+USA,2027_Q2,Inflation/Rate Shock,1.45,↓,True,8110.0,58
+USA,2027_Q3,Inflation/Rate Shock,2.59,↑,True,8111.0,48
+USA,2027_Q4,Inflation/Rate Shock,1.53,↓,True,8112.0,48
+USA,2028_Q1,Inflation/Rate Shock,1.07,↓,True,8113.0,63
+USA,2028_Q2,Inflation/Rate Shock,1.64,↑,True,8114.0,65
+USA,2028_Q3,Inflation/Rate Shock,4.23,↑,True,8115.0,72
+USA,2028_Q4,Inflation/Rate Shock,3.19,↓,True,8116.0,61
+USA,2022_Q1,Market Liquidity,2.13,→,False,8089.0,51
+USA,2022_Q2,Market Liquidity,3.29,↑,False,8090.0,71
+USA,2022_Q3,Market Liquidity,4.01,↑,False,8091.0,75
+USA,2022_Q4,Market Liquidity,3.03,↓,False,8092.0,58
+USA,2023_Q1,Market Liquidity,4.85,↑,False,8093.0,68
+USA,2023_Q2,Market Liquidity,4.96,→,False,8094.0,67
+USA,2023_Q3,Market Liquidity,4.78,→,False,8095.0,50
+USA,2023_Q4,Market Liquidity,3.93,↓,False,8096.0,61
+USA,2024_Q1,Market Liquidity,2.47,↓,False,8097.0,55
+USA,2024_Q2,Market Liquidity,3.47,↑,False,8098.0,69
+USA,2024_Q3,Market Liquidity,4.94,↑,False,8099.0,56
+USA,2024_Q4,Market Liquidity,1.42,↓,False,8100.0,57
+USA,2025_Q1,Market Liquidity,2.59,↑,False,8101.0,37
+USA,2025_Q2,Market Liquidity,1.21,↓,False,8102.0,54
+USA,2025_Q3,Market Liquidity,1.66,↑,False,8103.0,57
+USA,2025_Q4,Market Liquidity,1.65,→,False,8104.0,52
+USA,2026_Q1,Market Liquidity,3.91,↑,True,8105.0,57
+USA,2026_Q2,Market Liquidity,2.14,↓,True,8106.0,67
+USA,2026_Q3,Market Liquidity,4.42,↑,True,8107.0,61
+USA,2026_Q4,Market Liquidity,3.35,↓,True,8108.0,51
+USA,2027_Q1,Market Liquidity,3.47,→,True,8109.0,55
+USA,2027_Q2,Market Liquidity,2.08,↓,True,8110.0,58
+USA,2027_Q3,Market Liquidity,2.92,↑,True,8111.0,48
+USA,2027_Q4,Market Liquidity,1.57,↓,True,8112.0,48
+USA,2028_Q1,Market Liquidity,1.98,↑,True,8113.0,63
+USA,2028_Q2,Market Liquidity,3.42,↑,True,8114.0,65
+USA,2028_Q3,Market Liquidity,4.05,↑,True,8115.0,72
+USA,2028_Q4,Market Liquidity,3.39,↓,True,8116.0,61
+USA,2022_Q1,Sovereign Debt,1.18,→,False,8089.0,51
+USA,2022_Q2,Sovereign Debt,4.58,↑,False,8090.0,71
+USA,2022_Q3,Sovereign Debt,4.47,→,False,8091.0,75
+USA,2022_Q4,Sovereign Debt,1.52,↓,False,8092.0,58
+USA,2023_Q1,Sovereign Debt,3.54,↑,False,8093.0,68
+USA,2023_Q2,Sovereign Debt,4.08,↑,False,8094.0,67
+USA,2023_Q3,Sovereign Debt,2.49,↓,False,8095.0,50
+USA,2023_Q4,Sovereign Debt,4.09,↑,False,8096.0,61
+USA,2024_Q1,Sovereign Debt,2.64,↓,False,8097.0,55
+USA,2024_Q2,Sovereign Debt,4.38,↑,False,8098.0,69
+USA,2024_Q3,Sovereign Debt,1.9,↓,False,8099.0,56
+USA,2024_Q4,Sovereign Debt,2.17,→,False,8100.0,57
+USA,2025_Q1,Sovereign Debt,2.31,→,False,8101.0,37
+USA,2025_Q2,Sovereign Debt,1.67,↓,False,8102.0,54
+USA,2025_Q3,Sovereign Debt,3.64,↑,False,8103.0,57
+USA,2025_Q4,Sovereign Debt,2.32,↓,False,8104.0,52
+USA,2026_Q1,Sovereign Debt,3.72,↑,True,8105.0,57
+USA,2026_Q2,Sovereign Debt,2.58,↓,True,8106.0,67
+USA,2026_Q3,Sovereign Debt,3.86,↑,True,8107.0,61
+USA,2026_Q4,Sovereign Debt,1.38,↓,True,8108.0,51
+USA,2027_Q1,Sovereign Debt,1.68,↑,True,8109.0,55
+USA,2027_Q2,Sovereign Debt,4.38,↑,True,8110.0,58
+USA,2027_Q3,Sovereign Debt,1.72,↓,True,8111.0,48
+USA,2027_Q4,Sovereign Debt,2.02,↑,True,8112.0,48
+USA,2028_Q1,Sovereign Debt,4.85,↑,True,8113.0,63
+USA,2028_Q2,Sovereign Debt,4.76,→,True,8114.0,65
+USA,2028_Q3,Sovereign Debt,3.95,↓,True,8115.0,72
+USA,2028_Q4,Sovereign Debt,2.31,↓,True,8116.0,61
+China,2029_Q1,Bank Stability,2.86,→,True,,61
+China,2029_Q2,Bank Stability,4.0,→,True,,64
+China,2029_Q3,Bank Stability,3.25,→,True,,62
+China,2029_Q4,Bank Stability,3.74,→,True,,64
+China,2030_Q1,Bank Stability,3.42,→,True,,63
+China,2030_Q2,Bank Stability,3.63,→,True,,63
+China,2030_Q3,Bank Stability,3.49,→,True,,63
+China,2030_Q4,Bank Stability,3.58,→,True,,63
+China,2029_Q1,China Slowdown,3.11,→,True,,61
+China,2029_Q2,China Slowdown,1.92,→,True,,64
+China,2029_Q3,China Slowdown,2.78,→,True,,62
+China,2029_Q4,China Slowdown,2.16,→,True,,64
+China,2030_Q1,China Slowdown,2.61,→,True,,63
+China,2030_Q2,China Slowdown,2.28,→,True,,63
+China,2030_Q3,China Slowdown,2.52,→,True,,63
+China,2030_Q4,China Slowdown,2.35,→,True,,63
+China,2029_Q1,Emerging Market Debt,3.65,→,True,,61
+China,2029_Q2,Emerging Market Debt,3.49,→,True,,64
+China,2029_Q3,Emerging Market Debt,3.54,→,True,,62
+China,2029_Q4,Emerging Market Debt,3.52,→,True,,64
+China,2030_Q1,Emerging Market Debt,3.53,→,True,,63
+China,2030_Q2,Emerging Market Debt,3.53,→,True,,63
+China,2030_Q3,Emerging Market Debt,3.53,→,True,,63
+China,2030_Q4,Emerging Market Debt,3.53,→,True,,63
+China,2029_Q1,Geopolitical Conflict,2.66,→,True,,61
+China,2029_Q2,Geopolitical Conflict,2.65,→,True,,64
+China,2029_Q3,Geopolitical Conflict,2.65,→,True,,62
+China,2029_Q4,Geopolitical Conflict,2.65,→,True,,64
+China,2030_Q1,Geopolitical Conflict,2.65,→,True,,63
+China,2030_Q2,Geopolitical Conflict,2.65,→,True,,63
+China,2030_Q3,Geopolitical Conflict,2.65,→,True,,63
+China,2030_Q4,Geopolitical Conflict,2.65,→,True,,63
+China,2029_Q1,Housing Bubble,1.83,→,True,,61
+China,2029_Q2,Housing Bubble,1.89,→,True,,64
+China,2029_Q3,Housing Bubble,1.85,→,True,,62
+China,2029_Q4,Housing Bubble,1.87,→,True,,64
+China,2030_Q1,Housing Bubble,1.86,→,True,,63
+China,2030_Q2,Housing Bubble,1.87,→,True,,63
+China,2030_Q3,Housing Bubble,1.86,→,True,,63
+China,2030_Q4,Housing Bubble,1.87,→,True,,63
+China,2029_Q1,Inflation/Rate Shock,3.25,→,True,,61
+China,2029_Q2,Inflation/Rate Shock,4.05,→,True,,64
+China,2029_Q3,Inflation/Rate Shock,3.59,→,True,,62
+China,2029_Q4,Inflation/Rate Shock,3.86,→,True,,64
+China,2030_Q1,Inflation/Rate Shock,3.7,→,True,,63
+China,2030_Q2,Inflation/Rate Shock,3.79,→,True,,63
+China,2030_Q3,Inflation/Rate Shock,3.74,→,True,,63
+China,2030_Q4,Inflation/Rate Shock,3.77,→,True,,63
+China,2029_Q1,Market Liquidity,3.45,→,True,,61
+China,2029_Q2,Market Liquidity,3.47,→,True,,64
+China,2029_Q3,Market Liquidity,3.46,→,True,,62
+China,2029_Q4,Market Liquidity,3.46,→,True,,64
+China,2030_Q1,Market Liquidity,3.46,→,True,,63
+China,2030_Q2,Market Liquidity,3.46,→,True,,63
+China,2030_Q3,Market Liquidity,3.46,→,True,,63
+China,2030_Q4,Market Liquidity,3.46,→,True,,63
+China,2029_Q1,Sovereign Debt,3.58,→,True,,61
+China,2029_Q2,Sovereign Debt,3.33,→,True,,64
+China,2029_Q3,Sovereign Debt,3.44,→,True,,62
+China,2029_Q4,Sovereign Debt,3.39,→,True,,64
+China,2030_Q1,Sovereign Debt,3.41,→,True,,63
+China,2030_Q2,Sovereign Debt,3.4,→,True,,63
+China,2030_Q3,Sovereign Debt,3.41,→,True,,63
+China,2030_Q4,Sovereign Debt,3.41,→,True,,63
+Eurozone,2029_Q1,Bank Stability,3.21,→,True,,63
+Eurozone,2029_Q2,Bank Stability,3.88,→,True,,67
+Eurozone,2029_Q3,Bank Stability,3.55,→,True,,65
+Eurozone,2029_Q4,Bank Stability,3.71,→,True,,66
+Eurozone,2030_Q1,Bank Stability,3.64,→,True,,66
+Eurozone,2030_Q2,Bank Stability,3.67,→,True,,66
+Eurozone,2030_Q3,Bank Stability,3.66,→,True,,66
+Eurozone,2030_Q4,Bank Stability,3.66,→,True,,66
+Eurozone,2029_Q1,China Slowdown,4.56,→,True,,63
+Eurozone,2029_Q2,China Slowdown,4.57,→,True,,67
+Eurozone,2029_Q3,China Slowdown,4.56,→,True,,65
+Eurozone,2029_Q4,China Slowdown,4.57,→,True,,66
+Eurozone,2030_Q1,China Slowdown,4.57,→,True,,66
+Eurozone,2030_Q2,China Slowdown,4.57,→,True,,66
+Eurozone,2030_Q3,China Slowdown,4.57,→,True,,66
+Eurozone,2030_Q4,China Slowdown,4.57,→,True,,66
+Eurozone,2029_Q1,Emerging Market Debt,2.93,→,True,,63
+Eurozone,2029_Q2,Emerging Market Debt,3.22,→,True,,67
+Eurozone,2029_Q3,Emerging Market Debt,3.07,→,True,,65
+Eurozone,2029_Q4,Emerging Market Debt,3.15,→,True,,66
+Eurozone,2030_Q1,Emerging Market Debt,3.11,→,True,,66
+Eurozone,2030_Q2,Emerging Market Debt,3.13,→,True,,66
+Eurozone,2030_Q3,Emerging Market Debt,3.12,→,True,,66
+Eurozone,2030_Q4,Emerging Market Debt,3.12,→,True,,66
+Eurozone,2029_Q1,Geopolitical Conflict,3.49,→,True,,63
+Eurozone,2029_Q2,Geopolitical Conflict,3.17,→,True,,67
+Eurozone,2029_Q3,Geopolitical Conflict,3.33,→,True,,65
+Eurozone,2029_Q4,Geopolitical Conflict,3.25,→,True,,66
+Eurozone,2030_Q1,Geopolitical Conflict,3.29,→,True,,66
+Eurozone,2030_Q2,Geopolitical Conflict,3.27,→,True,,66
+Eurozone,2030_Q3,Geopolitical Conflict,3.28,→,True,,66
+Eurozone,2030_Q4,Geopolitical Conflict,3.27,→,True,,66
+Eurozone,2029_Q1,Housing Bubble,3.26,→,True,,63
+Eurozone,2029_Q2,Housing Bubble,4.22,→,True,,67
+Eurozone,2029_Q3,Housing Bubble,3.69,→,True,,65
+Eurozone,2029_Q4,Housing Bubble,3.98,→,True,,66
+Eurozone,2030_Q1,Housing Bubble,3.82,→,True,,66
+Eurozone,2030_Q2,Housing Bubble,3.91,→,True,,66
+Eurozone,2030_Q3,Housing Bubble,3.86,→,True,,66
+Eurozone,2030_Q4,Housing Bubble,3.89,→,True,,66
+Eurozone,2029_Q1,Inflation/Rate Shock,2.92,→,True,,63
+Eurozone,2029_Q2,Inflation/Rate Shock,3.33,→,True,,67
+Eurozone,2029_Q3,Inflation/Rate Shock,3.17,→,True,,65
+Eurozone,2029_Q4,Inflation/Rate Shock,3.24,→,True,,66
+Eurozone,2030_Q1,Inflation/Rate Shock,3.21,→,True,,66
+Eurozone,2030_Q2,Inflation/Rate Shock,3.22,→,True,,66
+Eurozone,2030_Q3,Inflation/Rate Shock,3.22,→,True,,66
+Eurozone,2030_Q4,Inflation/Rate Shock,3.22,→,True,,66
+Eurozone,2029_Q1,Market Liquidity,2.99,→,True,,63
+Eurozone,2029_Q2,Market Liquidity,2.07,→,True,,67
+Eurozone,2029_Q3,Market Liquidity,2.53,→,True,,65
+Eurozone,2029_Q4,Market Liquidity,2.3,→,True,,66
+Eurozone,2030_Q1,Market Liquidity,2.42,→,True,,66
+Eurozone,2030_Q2,Market Liquidity,2.36,→,True,,66
+Eurozone,2030_Q3,Market Liquidity,2.39,→,True,,66
+Eurozone,2030_Q4,Market Liquidity,2.38,→,True,,66
+Eurozone,2029_Q1,Sovereign Debt,2.46,→,True,,63
+Eurozone,2029_Q2,Sovereign Debt,2.66,→,True,,67
+Eurozone,2029_Q3,Sovereign Debt,2.58,→,True,,65
+Eurozone,2029_Q4,Sovereign Debt,2.61,→,True,,66
+Eurozone,2030_Q1,Sovereign Debt,2.6,→,True,,66
+Eurozone,2030_Q2,Sovereign Debt,2.6,→,True,,66
+Eurozone,2030_Q3,Sovereign Debt,2.6,→,True,,66
+Eurozone,2030_Q4,Sovereign Debt,2.6,→,True,,66
+Global,2029_Q1,Bank Stability,4.48,→,True,,59
+Global,2029_Q2,Bank Stability,4.45,→,True,,56
+Global,2029_Q3,Bank Stability,4.46,→,True,,58
+Global,2029_Q4,Bank Stability,4.46,→,True,,57
+Global,2030_Q1,Bank Stability,4.46,→,True,,58
+Global,2030_Q2,Bank Stability,4.46,→,True,,57
+Global,2030_Q3,Bank Stability,4.46,→,True,,57
+Global,2030_Q4,Bank Stability,4.46,→,True,,57
+Global,2029_Q1,China Slowdown,2.42,→,True,,59
+Global,2029_Q2,China Slowdown,3.17,→,True,,56
+Global,2029_Q3,China Slowdown,2.76,→,True,,58
+Global,2029_Q4,China Slowdown,2.98,→,True,,57
+Global,2030_Q1,China Slowdown,2.86,→,True,,58
+Global,2030_Q2,China Slowdown,2.93,→,True,,57
+Global,2030_Q3,China Slowdown,2.89,→,True,,57
+Global,2030_Q4,China Slowdown,2.91,→,True,,57
+Global,2029_Q1,Emerging Market Debt,4.53,→,True,,59
+Global,2029_Q2,Emerging Market Debt,4.4,→,True,,56
+Global,2029_Q3,Emerging Market Debt,4.46,→,True,,58
+Global,2029_Q4,Emerging Market Debt,4.43,→,True,,57
+Global,2030_Q1,Emerging Market Debt,4.45,→,True,,58
+Global,2030_Q2,Emerging Market Debt,4.44,→,True,,57
+Global,2030_Q3,Emerging Market Debt,4.44,→,True,,57
+Global,2030_Q4,Emerging Market Debt,4.44,→,True,,57
+Global,2029_Q1,Geopolitical Conflict,1.95,→,True,,59
+Global,2029_Q2,Geopolitical Conflict,1.44,→,True,,56
+Global,2029_Q3,Geopolitical Conflict,1.74,→,True,,58
+Global,2029_Q4,Geopolitical Conflict,1.56,→,True,,57
+Global,2030_Q1,Geopolitical Conflict,1.67,→,True,,58
+Global,2030_Q2,Geopolitical Conflict,1.61,→,True,,57
+Global,2030_Q3,Geopolitical Conflict,1.64,→,True,,57
+Global,2030_Q4,Geopolitical Conflict,1.62,→,True,,57
+Global,2029_Q1,Housing Bubble,2.66,→,True,,59
+Global,2029_Q2,Housing Bubble,2.5,→,True,,56
+Global,2029_Q3,Housing Bubble,2.57,→,True,,58
+Global,2029_Q4,Housing Bubble,2.54,→,True,,57
+Global,2030_Q1,Housing Bubble,2.55,→,True,,58
+Global,2030_Q2,Housing Bubble,2.55,→,True,,57
+Global,2030_Q3,Housing Bubble,2.55,→,True,,57
+Global,2030_Q4,Housing Bubble,2.55,→,True,,57
+Global,2029_Q1,Inflation/Rate Shock,3.56,→,True,,59
+Global,2029_Q2,Inflation/Rate Shock,2.74,→,True,,56
+Global,2029_Q3,Inflation/Rate Shock,3.21,→,True,,58
+Global,2029_Q4,Inflation/Rate Shock,2.94,→,True,,57
+Global,2030_Q1,Inflation/Rate Shock,3.1,→,True,,58
+Global,2030_Q2,Inflation/Rate Shock,3.01,→,True,,57
+Global,2030_Q3,Inflation/Rate Shock,3.06,→,True,,57
+Global,2030_Q4,Inflation/Rate Shock,3.03,→,True,,57
+Global,2029_Q1,Market Liquidity,1.61,→,True,,59
+Global,2029_Q2,Market Liquidity,1.55,→,True,,56
+Global,2029_Q3,Market Liquidity,1.58,→,True,,58
+Global,2029_Q4,Market Liquidity,1.56,→,True,,57
+Global,2030_Q1,Market Liquidity,1.57,→,True,,58
+Global,2030_Q2,Market Liquidity,1.57,→,True,,57
+Global,2030_Q3,Market Liquidity,1.57,→,True,,57
+Global,2030_Q4,Market Liquidity,1.57,→,True,,57
+Global,2029_Q1,Sovereign Debt,1.65,→,True,,59
+Global,2029_Q2,Sovereign Debt,1.56,→,True,,56
+Global,2029_Q3,Sovereign Debt,1.58,→,True,,58
+Global,2029_Q4,Sovereign Debt,1.58,→,True,,57
+Global,2030_Q1,Sovereign Debt,1.58,→,True,,58
+Global,2030_Q2,Sovereign Debt,1.58,→,True,,57
+Global,2030_Q3,Sovereign Debt,1.58,→,True,,57
+Global,2030_Q4,Sovereign Debt,1.58,→,True,,57
+USA,2029_Q1,Bank Stability,3.08,→,True,,66
+USA,2029_Q2,Bank Stability,3.24,→,True,,64
+USA,2029_Q3,Bank Stability,3.17,→,True,,65
+USA,2029_Q4,Bank Stability,3.2,→,True,,64
+USA,2030_Q1,Bank Stability,3.19,→,True,,65
+USA,2030_Q2,Bank Stability,3.19,→,True,,65
+USA,2030_Q3,Bank Stability,3.19,→,True,,65
+USA,2030_Q4,Bank Stability,3.19,→,True,,65
+USA,2029_Q1,China Slowdown,3.64,→,True,,66
+USA,2029_Q2,China Slowdown,3.43,→,True,,64
+USA,2029_Q3,China Slowdown,3.53,→,True,,65
+USA,2029_Q4,China Slowdown,3.48,→,True,,64
+USA,2030_Q1,China Slowdown,3.5,→,True,,65
+USA,2030_Q2,China Slowdown,3.49,→,True,,65
+USA,2030_Q3,China Slowdown,3.5,→,True,,65
+USA,2030_Q4,China Slowdown,3.5,→,True,,65
+USA,2029_Q1,Emerging Market Debt,2.95,→,True,,66
+USA,2029_Q2,Emerging Market Debt,2.79,→,True,,64
+USA,2029_Q3,Emerging Market Debt,2.85,→,True,,65
+USA,2029_Q4,Emerging Market Debt,2.83,→,True,,64
+USA,2030_Q1,Emerging Market Debt,2.83,→,True,,65
+USA,2030_Q2,Emerging Market Debt,2.83,→,True,,65
+USA,2030_Q3,Emerging Market Debt,2.83,→,True,,65
+USA,2030_Q4,Emerging Market Debt,2.83,→,True,,65
+USA,2029_Q1,Geopolitical Conflict,2.86,→,True,,66
+USA,2029_Q2,Geopolitical Conflict,3.02,→,True,,64
+USA,2029_Q3,Geopolitical Conflict,2.96,→,True,,65
+USA,2029_Q4,Geopolitical Conflict,2.98,→,True,,64
+USA,2030_Q1,Geopolitical Conflict,2.97,→,True,,65
+USA,2030_Q2,Geopolitical Conflict,2.98,→,True,,65
+USA,2030_Q3,Geopolitical Conflict,2.98,→,True,,65
+USA,2030_Q4,Geopolitical Conflict,2.98,→,True,,65
+USA,2029_Q1,Housing Bubble,3.97,→,True,,66
+USA,2029_Q2,Housing Bubble,3.77,→,True,,64
+USA,2029_Q3,Housing Bubble,3.86,→,True,,65
+USA,2029_Q4,Housing Bubble,3.81,→,True,,64
+USA,2030_Q1,Housing Bubble,3.83,→,True,,65
+USA,2030_Q2,Housing Bubble,3.83,→,True,,65
+USA,2030_Q3,Housing Bubble,3.83,→,True,,65
+USA,2030_Q4,Housing Bubble,3.83,→,True,,65
+USA,2029_Q1,Inflation/Rate Shock,3.53,→,True,,66
+USA,2029_Q2,Inflation/Rate Shock,3.42,→,True,,64
+USA,2029_Q3,Inflation/Rate Shock,3.45,→,True,,65
+USA,2029_Q4,Inflation/Rate Shock,3.44,→,True,,64
+USA,2030_Q1,Inflation/Rate Shock,3.45,→,True,,65
+USA,2030_Q2,Inflation/Rate Shock,3.44,→,True,,65
+USA,2030_Q3,Inflation/Rate Shock,3.44,→,True,,65
+USA,2030_Q4,Inflation/Rate Shock,3.44,→,True,,65
+USA,2029_Q1,Market Liquidity,3.71,→,True,,66
+USA,2029_Q2,Market Liquidity,3.55,→,True,,64
+USA,2029_Q3,Market Liquidity,3.63,→,True,,65
+USA,2029_Q4,Market Liquidity,3.59,→,True,,64
+USA,2030_Q1,Market Liquidity,3.61,→,True,,65
+USA,2030_Q2,Market Liquidity,3.6,→,True,,65
+USA,2030_Q3,Market Liquidity,3.61,→,True,,65
+USA,2030_Q4,Market Liquidity,3.6,→,True,,65
+USA,2029_Q1,Sovereign Debt,3.12,→,True,,66
+USA,2029_Q2,Sovereign Debt,2.72,→,True,,64
+USA,2029_Q3,Sovereign Debt,2.92,→,True,,65
+USA,2029_Q4,Sovereign Debt,2.82,→,True,,64
+USA,2030_Q1,Sovereign Debt,2.87,→,True,,65
+USA,2030_Q2,Sovereign Debt,2.84,→,True,,65
+USA,2030_Q3,Sovereign Debt,2.86,→,True,,65
+USA,2030_Q4,Sovereign Debt,2.85,→,True,,65
