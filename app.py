@@ -10,7 +10,7 @@ quarters = sorted(df["Time"].unique(), key=lambda x: (int(x.split("_")[0]), int(
 
 # App setup
 app = dash.Dash(__name__)
-server = app.server  # for Render deployment
+server = app.server
 
 app.layout = html.Div([
     html.H1("📊 Financial Risk Radar", style={'textAlign': 'center', 'fontSize': '32px'}),
