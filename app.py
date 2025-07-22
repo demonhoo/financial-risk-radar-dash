@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 import pandas as pd
 
 # Load data
-df = pd.read_csv("data/financial_risk_data.csv")
+df = pd.read_csv("financial_risk_data.csv")
 regions = df["Region"].unique()
 quarters = sorted(df["Time"].unique(), key=lambda x: (int(x.split("_")[0]), int(x.split("_")[1][1])))
 
